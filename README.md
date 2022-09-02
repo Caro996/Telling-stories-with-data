@@ -1,4 +1,4 @@
-# My Data stories Portfolio 📊
+# My Data Stories Portfolio 📊
 (The link: https://caro996.github.io/Telling-stories-with-data/)
 
 ## About Me 🦄
