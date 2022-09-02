@@ -2,7 +2,7 @@
 (The link to the webpage: https://caro996.github.io/Telling-stories-with-data/)
 
 ## About Me 🦄
-
+![alt text](/path/img.jpg)\
 I'm Caroline
 A current CMU graduate student who loves exploring all kinds of possibilities and uncovering new treasures.
 Pursue a career path of data analyst and business analyst.
