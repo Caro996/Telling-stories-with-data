@@ -33,3 +33,15 @@ All the other skills needed to become an excellent data analyst / business analy
 
 
 ## Portfolio 📚
+Below are my data stories with data visualizations:
+
+### Assign 1
+  
+    
+### Assign 2
+  
+  
+### Assign 3
+  
+   
+### Final Project
