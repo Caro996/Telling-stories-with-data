@@ -1,4 +1,4 @@
-# Telling-stories-with-data 📊
+# My Data stories Portfolio 📊
 (The link to the webpage: https://caro996.github.io/Telling-stories-with-data/)
 
 ## About Me 🦄
@@ -29,6 +29,6 @@ All the other skills needed to become an excellent data analyst / business analy
 \
 \
 \
-*<span style="color:red">Welcome To Caroline's Data Story Telling Garden</span>* 🌸 
+*<span style="color:pink">Welcome To Caroline's Data Story Telling Garden</span>* 🌸 
 
 ## Portfolio 📚
