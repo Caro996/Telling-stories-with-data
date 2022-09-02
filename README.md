@@ -2,7 +2,10 @@
 (The link to the webpage: https://caro996.github.io/Telling-stories-with-data/)
 
 ## About Me 🦄
+
+I'm Caroline
 A current CMU graduate student who loves exploring all kinds of possibilities and uncovering new treasures.
+Pursue a career path of data analyst and business analyst.
 Love Music,making friends and traveling around the world.
 
 ## My Favorite Motto 💫
@@ -24,3 +27,7 @@ All the other skills needed to become an excellent data analyst / business analy
 \
 \
 *<span style="color:red">Welcome To Caroline's Data Story Telling Garden</span>* 🌸
+\
+\
+\
+## Portfolio 📚
