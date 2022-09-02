@@ -5,11 +5,14 @@
 <p align = "center">
 <img src="IMG_7802.JPG" width="600"/> 
 </p>
-Hi, this is Caroline.     
+Hi, this is Caroline.  
   
 📍 A current CMU graduate student who loves exploring all kinds of possibilities and uncovering new treasures.  
 📍 Pursue a career path of data analyst and business analyst.   
-📍 Love Music,making friends and traveling around the world.
+📍 Love Music,making friends and traveling around the world.  
+   
+[My linkedin Profile](https://www.linkedin.com/in/yuanmo-caroline-zhu-18428818a/)
+
 
 ## My Favorite Motto 💫
 ***"Life isn't about to survive the storm, it's about learning to dance in the rain."***\
