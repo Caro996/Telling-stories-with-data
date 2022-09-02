@@ -29,7 +29,7 @@ All the other skills needed to become an excellent data analyst / business analy
 \
 \
 \
-***<span style="color:hotpink;font-weight:700;font-size:20px">Welcome To Caroline's Data Story Telling Garden</span>*** 🌸 
+***<span style="color:pink;font-weight:700;font-size:20px">Welcome To Caroline's Data Story Telling Garden</span>*** 🌸 
 
 
 ## Portfolio 📚
