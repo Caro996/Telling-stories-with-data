@@ -2,7 +2,7 @@
 (The link to the webpage: https://caro996.github.io/Telling-stories-with-data/)
 
 ## About Me
-A current CMU Graduate Student who loves exploring all kinds of possibilities and uncover new treasures.
+A current CMU graduate student who loves exploring all kinds of possibilities and uncovering new treasures.
 Love Music,making friends and traveling around the world.
 
 ## My Favorite Motto
