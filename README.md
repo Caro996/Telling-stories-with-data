@@ -38,7 +38,7 @@ All the other skills needed to become an excellent data analyst / business analy
 ## Portfolio 📚
 Below are my data stories with data visualizations:
 
-[King County Covid-19 Cases Page]()
+<div class="flourish-embed flourish-chart" data-src="visualisation/11109441"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Assign 1
   
