@@ -38,6 +38,8 @@ All the other skills needed to become an excellent data analyst / business analy
 ## Portfolio 📚
 Below are my data stories with data visualizations:
 
+[King County Covid-19 Cases Page]()
+
 ### Assign 1
   
     
