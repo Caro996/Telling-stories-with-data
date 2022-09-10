@@ -38,13 +38,12 @@ All the other skills needed to become an excellent data analyst / business analy
 ## Portfolio 📚
 Below are my data stories with data visualizations:
 
-[King Country Covid 19 Cases](King County Covid-19 Cases.md)
 
 ### Assign 1
-  
+[King Country Covid 19 Cases](King County Covid-19 Cases.md) 
     
 ### Assign 2
-  
+[General Government Debts](General government debt.md)  
   
 ### Assign 3
   
