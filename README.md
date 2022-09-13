@@ -39,7 +39,7 @@ All the other skills needed to become an excellent data analyst / business analy
 Below are my data stories with data visualizations:
 
 
-### Assign 1
+### Course Exploration
 [King Country Covid 19 Cases](King County Covid-19 Cases.md) 
     
 ### Assign 2
