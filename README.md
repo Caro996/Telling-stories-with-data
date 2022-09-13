@@ -41,6 +41,7 @@ Below are my data stories with data visualizations:
 
 ### Course Exploration
 [King Country Covid 19 Cases](King County Covid-19 Cases.md) 
+[Trusted News Media Rank in US](Trusted News Media Rank in US.md)
     
 ### Assign 2
 [General Government Debts](General government debt.md)  
