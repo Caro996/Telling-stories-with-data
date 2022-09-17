@@ -4,8 +4,8 @@
 </p>
 [Data Source](https://www.shareable.net/where-do-americans-share-transportation/)
 
-***Critique 📝***
 
+Critique 📝
 ---
 Critique methods used: Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
 <p align = "left">
