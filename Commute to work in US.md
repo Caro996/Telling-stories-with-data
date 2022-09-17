@@ -18,13 +18,13 @@ This data visualization attracts me at first sight because of the cozy color pat
 
 1.	Engagement: Big and striking city name letters: this is what attracts me and invites me to learn more about this chart. It successfully caught my eye at first sight.
 2.	Esthetics: 
-1>	Good color patterns: the colors chosen contrast well with each other but do not fight with each other, which contributes to the esthetics of this chart.
+1>	Good color patterns: the colors chosen contrast well with each other but do not fight with each other, which contributes to the esthetics of this chart.  
 2>	Nice alignment of items: the alignment is well designed to make this data visualization look clean and neat including each city’s letter and the legends.
 
 **What doesn’t work well 🧐**:  
 
 1.	Perceptibility: 
-1>	Font size of title is small compared with subtitle and the visualization letters, which may influence audience’s eye travel (take time to notice the title instead of at first sight)
+1>	Font size of title is small compared with subtitle and the visualization letters, which may influence audience’s eye travel (take time to notice the title instead of at first sight). 
 2>	Font size of legends is small: the font size of legends is similar to that of the data source which makes it difficult to read what each color represents. Alignment of main title and subtitle looks busy.
 2.	Intuitiveness: Too many colors in each big city letter make it not intuitive to figure out what this chart means and what each color represents.
 3.	Completeness & Truthfulness: lack of figures shown making it hard to compare the difference among different cities. The chart looks beautiful in city letters, but such a representation also loses a certain level of truth. For example, for percent of people who drive, that of LA is actually twice as much as that of SF, while it’s not obvious in this chart.
@@ -120,5 +120,10 @@ Tips for interacting with charts:
 Changes made based on feedbacks:
 1. Put full name of each city instead of abbreviation for better perceptibility and intuitiveness.
 2. Changed the title from "How American people commute to work?" to "Most Commonly Used Commuting Transportation in US Cities:" with subtitle "Less populated: Drive; More crowded: Public Trans". This makes the purpose of this chart clearer: for travellers or people who are interested in which transportation is commonly used in each city, this chart tells generally in less populated cities, drive is the top 1 choice for local people while in more crowded cities, public transportation is more widely used.
-3. Shifted from the original loosely aligned grilled column chart to closely aligned grilled bar chart.The commuting ways categories only shows on the very left side, and 
+3. Shifted from the original loosely aligned grilled column chart to closely aligned grilled bar chart.The commuting ways categories only shows on the very left side, and percent data only shown on the bottom X axis. This avoids repetition and somehow improves the busyness issue.
+4. Commuting categories labels are appended with corresponding emojis and interactions between charts are added to improve engagement and make each category easier and more intuitive to identify.
+5. Population density data and a bubble chart representation is added to justify the main idea of this chart: "generally in less populated cities, drive is the top 1 choice for local people while in more crowded cities, public transportation is more widely used."
+
+Sum up the redesign:
+
 
