@@ -27,7 +27,7 @@ This data visualization attracts me at first sight because of the cozy color pat
 2.	Intuitiveness: Too many colors in each big city letter make it not intuitive to figure out what this chart means and what each color represents.
 3.	Completeness & Truthfulness: lack of figures shown making it hard to compare the difference among different cities. The chart looks beautiful in city letters, but such a representation also loses a certain level of truth. For example, for percent of people who drive, that of LA is actually twice as much as that of SF, while it’s not obvious in this chart.
 
-**Primary audience 🪑**:
+**Primary audience 🪑**:  
 I believe the audience for this chart may be some staff from the Transportation department of the US government or states government, some researchers who study the Transportation change in the US, and some citizens of the US, especially in cities shown in the chart
 
 Usefulness:
