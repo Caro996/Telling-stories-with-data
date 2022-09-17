@@ -141,17 +141,18 @@ Changes made based on feedbacks:
 
 Sum up the redesign ✨
 ---
-1. Main audience:  
+**1. Main audience**:  
 Travellers & people interested in common transportation used in some US cities listed here.  
 
-2. Main idea:  
+**2. Main idea**:  
 "Generally in less populated cities, drive is the top 1 choice for local people while in more crowded cities, public transportation is more widely used."  
 
-3. Reason for representation selected:  
+**3. Reason for representation selected**:  
 First part of the chart is a grilled bar chart. I chose this since it's easier to compare both in commuting ways perspective and in cities perspective with this chart type.Second part of this chart is a bubble chart. Since there are obvious difference among cities' population density, and the purpose of population density shown is not to give a specific number, but to give a general sense which city is more crowded and which is less populated, bubble chart is nice to serve the objective.  
 
-4. Difference between the sketch and the redesign:  
+**4. Difference between the sketch and the redesign**:  
 As mentioned in the changes based on feedebacks, the differences between the sketch and the redesign are quite clear.
 
-Redesign has a more specific audience and story telling purpose with more comfortable alignment, more informative title and subtitle, less busyness, more compelete information, more engagement(I hope so) and no confusion with city names.
+**Redesign has a more specific audience and story telling purpose with more comfortable alignment, more informative title and subtitle, less busyness, more compelete information, more engagement(I hope so) and no confusion with city names.**
+
 
