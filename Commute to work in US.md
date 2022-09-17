@@ -128,9 +128,9 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
   
-Tips for interacting with charts:
-1.When selecting a city name in grilled bar chart, corresponding population density will be highlighted; same for selecting a city bubble in bubble chart.
-2.When selecting a commuting way in grilled bar chart, all cities' data with this same commuting way will be highlighted.
+Tips for interacting with charts:  
+1.When selecting a city name in grilled bar chart, corresponding population density will be highlighted; same for selecting a city bubble in bubble chart.  
+2.When selecting a commuting way in grilled bar chart, all cities' data with this same commuting way will be highlighted.  
 
 Changes made based on feedbacks:
 1. Put full name of each city instead of abbreviation for better perceptibility and intuitiveness.  
