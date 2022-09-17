@@ -7,7 +7,6 @@
 ***Critique 📝***
 
 ---
-
 Critique methods used: Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
 <p align = "left">
 <img src="critique.JPG" width="600"/> 
