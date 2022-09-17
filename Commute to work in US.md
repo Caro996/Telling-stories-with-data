@@ -64,21 +64,21 @@ Sketch Feedbacks✍🏻
 
 Respondent 1 👩🏻‍💼: project manager, female, mid 30's
 
-**Q1: Can you tell me what you think this is?**
+**Q1: Can you tell me what you think this is?**  
 I think it's about what vehicles or transportation ways American people use to go to work.
 
-**Q2: Can you describe to me what this is telling you?**
+**Q2: Can you describe to me what this is telling you?**  
 Besides the main idea of showing different commuting ways, this chart also attracts me to look at the highest and lowest bar for each category and think about the reasons behind. For example, this chart tells me DC and NYC's main transportation way is public transportation instead of driving. This is because big cities like DC and NYC are very crowded and highly likely to experience traffic jam. Public transportation, even walking can be better alternative.
 
-**Q3: Is there anything you find surprising or confusing?**
+**Q3: Is there anything you find surprising or confusing?**  
 For the data visualization, nothing surprising or confusing. Bar charts are one of the most common charts we see everyday everywhere. The chart is quite clear to let audience know the main point: American people's commuting ways in several cities.
 
 For the data information, it surprises me when I see that Walking is among the top 3 ways in NYC. Probably it's because of New York's topography， crowdness, high transportation fees.
 
-**Q4: Who do you think is the intended audience for this?**
+**Q4: Who do you think is the intended audience for this?**  
 Travellers both domestically and internationally. Travellers will be highly interested in the normal and common transportation ways in different cities and will take this information into account to save money or to make the trip convenient when planning their travels. 
 
-**Q5: Is there anything you would change or do differently?**
+**Q5: Is there anything you would change or do differently?**  
 1. Typo in the title: communite? or commute! 
 2. Confused at first sight about the abbreviation of American cities. Full name of cities shown here will be better.
 3. Not easy to compare the commuting ways across cities. It will be better if one more chart which show the comparison grouped by commuting ways can be offered.
@@ -86,19 +86,19 @@ Travellers both domestically and internationally. Travellers will be highly inte
 
 Respondent 2 👩🏻‍💻: business developer, female, mid 20's
 
-**Q1: Can you tell me what you think this is?**
+**Q1: Can you tell me what you think this is?**   
 Just as the information provided by the title: commuting ways of American people in different cities.
 
-**Q2: Can you describe to me what this is telling you?**
+**Q2: Can you describe to me what this is telling you?**   
 Different american cities have quite different preferred commuting ways. In large and sparsely populated areas like HOU and ATL, people prefer to drive; in crowded areas like DC and NYC, people prefer public transportation.
 
-**Q3: Is there anything you find surprising or confusing?**
+**Q3: Is there anything you find surprising or confusing?**  
 Because I don't know enough about the various cities in the United States, there is no surprise or confusion in the content of the chart; in the form of the chart, it is recommended to use a stacked bar chart, which will be more convenient for comparison.
 
-**Q4: Who do you think is the intended audience for this?**
+**Q4: Who do you think is the intended audience for this?**   
 Some government officials, researchers, and local citizens of the United States. 
 
-**Q5: Is there anything you would change or do differently?**
+**Q5: Is there anything you would change or do differently?**   
 The purpose of the chart is not clear enough, whether it is to prove a conclusion, to answer a question, or to propose a product. Therefore, for example, if you want to prove that there is a high demand for carpooling in a sparsely populated area, so that the carpooling-related business has a premise background for the development, then you can also add information on the population density of each city, which will make the purpose of the chart more prominent.
 
 Key Takeaway From Feedbacks 🙇🏻‍♀️
@@ -118,12 +118,27 @@ Tips for interacting with charts:
 2.When selecting a commuting way in grilled bar chart, all cities' data with this same commuting way will be highlighted.
 
 Changes made based on feedbacks:
-1. Put full name of each city instead of abbreviation for better perceptibility and intuitiveness.
-2. Changed the title from "How American people commute to work?" to "Most Commonly Used Commuting Transportation in US Cities:" with subtitle "Less populated: Drive; More crowded: Public Trans". This makes the purpose of this chart clearer: for travellers or people who are interested in which transportation is commonly used in each city, this chart tells generally in less populated cities, drive is the top 1 choice for local people while in more crowded cities, public transportation is more widely used.
-3. Shifted from the original loosely aligned grilled column chart to closely aligned grilled bar chart.The commuting ways categories only shows on the very left side, and percent data only shown on the bottom X axis. This avoids repetition and somehow improves the busyness issue.
-4. Commuting categories labels are appended with corresponding emojis and interactions between charts are added to improve engagement and make each category easier and more intuitive to identify.
+1. Put full name of each city instead of abbreviation for better perceptibility and intuitiveness.  
+2. Changed the title from "How American people commute to work?" to "Most Commonly Used Commuting Transportation in US Cities:" with subtitle "Less populated: Drive; More crowded: Public Trans". This makes the purpose of this chart clearer: for travellers or people who are interested in which transportation is commonly used in each city, this chart tells generally in less populated cities, drive is the top 1 choice for local people while in more crowded cities, public transportation is more widely used.  
+3. Shifted from the original loosely aligned grilled column chart to closely aligned grilled bar chart.The commuting ways categories only shows on the very left side, and percent data only shown on the bottom X axis. This avoids repetition and somehow improves the busyness issue.  
+4. Commuting categories labels are appended with corresponding emojis and interactions between charts are added to improve engagement and make each category easier and more intuitive to identify.  
 5. Population density data and a bubble chart representation is added to justify the main idea of this chart: "generally in less populated cities, drive is the top 1 choice for local people while in more crowded cities, public transportation is more widely used."
 
-Sum up the redesign:
+Sum up the redesign ✨
+---
+1. Main audience:  
+Travellers & people interested in common transportation used in some US cities listed here.  
 
+2. Main idea:  
+"Generally in less populated cities, drive is the top 1 choice for local people while in more crowded cities, public transportation is more widely used."  
+
+3. Reason for representation selected:  
+First part of the chart is a grilled bar chart. I chose this since it's easier to compare both in commuting ways perspective and in cities perspective with this chart type.   
+
+Second part of this chart is a bubble chart. Since there are obvious difference among cities' population density, and the purpose of population density shown is not to give a specific number, but to give a general sense which city is more crowded and which is less populated, bubble chart is nice to serve the objective.  
+
+4. Difference between the sketch and the redesign:  
+As mentioned in the changes based on feedebacks, the differences between the sketch and the redesign are quite clear.
+
+Redesign has a more specific audience and story telling purpose with more comfortable alignment, more informative title and subtitle, less busyness, more compelete information, more engagement(I hope so) and no confusion with city names.
 
