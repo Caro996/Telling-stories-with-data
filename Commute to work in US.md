@@ -52,7 +52,7 @@ With regard to the critique itself, this method is actually a successful method 
 
 However, compared with the method we used in Good Charts book, I feel that it will be better to just list out what I personally think work well or not well since critique itself is very subjective. Especially for the esthetic perspective used in the new method, giving a grade for this part may not seem reasonable since different people have different opinions towards beauty.
 
-Another part mission from this new chart is the recommendation part. With different perspective, we only critique what we think good or bad and it ends. But the purpose of critique is not to give critique, it’s also about a discussion of what can be done differently to serve different audience or purpose.
+Another part missing from this new chart is the recommendation part. With different perspective, we only critique what we think good or bad and it ends. But the purpose of critique is not to give critique, it’s also about a discussion of what can be done differently to serve different audience or purpose.
 
 So if I will add to this new method a part, it will be recommendations for this chart like what has been mentioned above.
 
