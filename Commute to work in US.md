@@ -1,3 +1,3 @@
 <p align = "center">
-<img src="IMG_7802.JPG" width="600"/> 
+<img src="Commute to work in US original.png" width="600"/> 
 </p>
