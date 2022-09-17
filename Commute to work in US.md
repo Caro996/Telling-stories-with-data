@@ -55,3 +55,19 @@ However, compared with the method we used in Good Charts book, I feel that it wi
 Another part mission from this new chart is the recommendation part. With different perspective, we only critique what we think good or bad and it ends. But the purpose of critique is not to give critique, it’s also about a discussion of what can be done differently to serve different audience or purpose.
 
 So if I will add to this new method a part, it will be recommendations for this chart like what has been mentioned above.
+
+Sketch ✍🏻
+---
+<p align = "left">
+<img src="sketch.jpeg" width="600"/> 
+</p>
+
+Q1: Can you tell me what you think this is?
+
+Q2: Can you describe to me what this is telling you?
+
+Q3: Is there anything you find surprising or confusing?
+
+Q4: Who do you think is the intended audience for this?
+
+Q5: Is there anything you would change or do differently?
