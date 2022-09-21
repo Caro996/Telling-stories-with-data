@@ -1,4 +1,4 @@
-**How american people commute to work (2008)**
+**How American people commute to work (2008)**
 <p align = "left">
 <img src="Commute to work in US original.png" width="600"/> 
 </p>
@@ -133,12 +133,28 @@ Tips for interacting with charts:
 1.When selecting a city name in grilled bar chart, corresponding population density will be highlighted; same for selecting a city bubble in bubble chart.  
 2.When selecting a commuting way in grilled bar chart, all cities' data with this same commuting way will be highlighted.  
 
-Changes made based on feedbacks:
+Changes made based on respondents' feedbacks:
 1. Put full name of each city instead of abbreviation for better perceptibility and intuitiveness.  
 2. Changed the title from "How American people commute to work?" to "Most Commonly Used Commuting Transportation in US Cities:" with subtitle "Less populated: Drive; More crowded: Public Trans". This makes the purpose of this chart clearer: for travellers or people who are interested in which transportation is commonly used in each city, this chart tells generally in less populated cities, drive is the top 1 choice for local people while in more crowded cities, public transportation is more widely used.  
 3. Shifted from the original loosely aligned grilled column chart to closely aligned grilled bar chart.The commuting ways categories only shows on the very left side, and percent data only shown on the bottom X axis. This avoids repetition and somehow improves the busyness issue.  
 4. Commuting categories labels are appended with corresponding emojis and interactions between charts are added to improve engagement and make each category easier and more intuitive to identify.  
 5. Population density data and a bubble chart representation is added to justify the main idea of this chart: "generally in less populated cities, drive is the top 1 choice for local people while in more crowded cities, public transportation is more widely used."
+  
+Peer feedbacks in class 👩🏻‍🎓🧑🏻‍🎓:
+What works well:  
+1. Bar charts are a good way to show the comparison of percentage of different commuting ways.  
+2. Well designed interactive part to add the engagement.  
+3. Color pattern well chosen: distinguish well among different categries, and choose green for public transportation and walk,which is intuitive.  
+4. Bubble chart is also well used here to simply show the population density. Readers can tell the difference easily.  
+  
+What doesn't work well:  
+1. Commuting categories only shown once on y axis for each line of 4 grilled bar charts, when tring to compare, there is more eye travel back and forth to see which type the bar belongs to.  
+2. The subtitle should be clearer. Not intuitive at first sight. (Original subtitle: "Less populated: Drive; Moew populated: Public Trans"). 
+3. Color pattern can be improved for bubble charts where darker colors represent more. (Original bubble chart color: different kinds of red assigned to each bubble randomly.). 
+  
+Last changes made based on peer feedbacks:
+1. Changed the subtitle from **"Less populated: Drive; Moew populated: Public Trans"** to **"Less populated cities: People drive   More populated cities: People take Public transportation "**
+2. Changed the color pattern of some bubbles and darker red means higher population density now.
 
 Sum up the redesign ✨
 ---
