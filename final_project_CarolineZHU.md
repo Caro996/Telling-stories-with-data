@@ -6,30 +6,30 @@ For the past decades of years, women singers have less chance and representation
 To change this dilemma, to achieve a certain degree of gender equality in music awards and even the entire music industry, we need each of us to contribute our part.  
   
 # **Project Structure🧬**
-## **Topic**:   
+**Topic**:   
 Women singers’ representation in Grammy over the years
 
-## **Reader perspective**:  
+**Reader perspective**:  
 As a music lover or music industry worker, I want to see and work in a music industry where gender equality is not an exception but a rule so that every artist regardless of the gender can get equal opportunities.
 
-## **Call to action**:  
+**Call to action**:  
 I can contribute to a music industry with gender equality by following more the works of female singers, MV directors and producers; and by standing up to support women singers’ rights online when gender discrimination happens.
 
 ## **Story Arc**:  
 **Emotions of Arc**
 <p align = "center">
 <img src="Emotions of Arc.jpg" width="600"/> 
-</p>  
-The whole story is divided into 6 big elements or scenarios of smaller story points:  
-Scenario 1: Women's low representation in Grammy in history. 
-Scenario 2: Women's low representation in Grammy in recent years.  
-Scenario 3: Gender Discrimination is not limited to Grammy, but across the whole industry.  
-Scenario 4: Reasons for Women's low representation in Grammy
-            Reason 1: Sexual harassment and objectification
-            Reason 2: Ageism requirements on female artists
-            Reason 3: Male-dominated jury   
-Scenario 5: Why Grammys are so important to artists.  
-Scenario 6: Call to action to support women music creators and industry workers.
+</p>    
+The whole story is divided into 6 big elements or scenarios of smaller story points:    
+Scenario 1: Women's low representation in Grammy in history.   
+Scenario 2: Women's low representation in Grammy in recent years.    
+Scenario 3: Gender Discrimination is not limited to Grammy, but across the whole industry.    
+Scenario 4: Reasons for Women's low representation in Grammy. 
+            Reason 1: Sexual harassment and objectification. 
+            Reason 2: Ageism requirements on female artists. 
+            Reason 3: Male-dominated jury.    
+Scenario 5: Why Grammys are so important to artists.   
+Scenario 6: Call to action to support women music creators and industry workers.  
 
 ## ***Scenario 1️⃣***
 **First woman wining Grammy in 1959: Ella fitzgerald**
