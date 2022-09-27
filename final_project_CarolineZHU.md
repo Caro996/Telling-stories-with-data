@@ -28,9 +28,9 @@ First woman wining Grammy in 1959: Ella fitzgerald
 <p align = "center">
 <img src="Ella-Fitzgerald-Banner-Image.jpeg" width="600"/> 
 </p>     
-[picture source: GreenLight Rights](https://greenlightrights.com/blog/2018-09-27-ella-fitzgeralds-estate-signs-as-greenlights-newest-icon/). 
-    
-    
+[picture source: GreenLight Rights](https://greenlightrights.com/blog/2018-09-27-ella-fitzgeralds-estate-signs-as-greenlights-newest-icon/).    
+   
+   
 Gender Distribution Of Nominees In The 1st Grammy In 1959
 <p align = "center">
 <img src="Scenario1.jpg" width="600"/> 
