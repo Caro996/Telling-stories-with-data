@@ -145,5 +145,33 @@ What happens to females artists is that they are overwhelmed in a vicious circle
 1.	Get involved with organizations that support women in audio.  
 2.	Listen to women-created and women-focused music podcasts.  
 3.	Interact on social media.  
+   
+   
+# **Use of Data📊**
+Data Sources List:
+1. [Picture Source: GreenLight Rights](https://greenlightrights.com/blog/2018-09-27-ella-fitzgeralds-estate-signs-as-greenlights-newest-icon/)   
+2. [Data Source: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)    
+3. [Data Source: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)       
+4. [Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)    
+5. [Data Source:Gender Inequality in the Music Industry (2022) – Statistics and Thoughts](https://www.musicianwave.com/gender-inequality-in-the-music-industry-statistics/)   
+6. [Data Source:Report on Sexual Harassment in Music Industry;](https://musiciansunion.org.uk/legal-money/workplace-rights-and-legislation/the-equality-act-and-guidance/sexual-harassment-at-work/report-on-sexual-harassment-in-music-industry)      
+7. [Data Source:Here’s the Last 30 Album of the Year Grammy Winners By Age](https://www.billboard.com/music/music-news/grammy-age-album-year-winners-graphic-6465426/)   
+8. [Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)    
+9. [Data Source: Growth of music sales on the day after the Grammy Awards in 2020, by type](https://www.statista.com/statistics/252744/growth-of-music-sales-following-the-grammay-awards/)    
+10. [Idea Source: These Are 3 Of The Biggest Drivers Of Gender Inequality In Music](https://www.forbes.com/sites/andreabossi/2021/03/26/these-are-3-of-the-biggest-reported-drivers-of-gender-inequality-in-music/) 
+11. [Idea Source: 10 Ways To Support Women Musicians & Creators Year-Round](https://www.grammy.com/news/10-ways-to-support-women-in-music-year-round) 
 
+Data referenced here are mainly of 3 types:    
+1. Pictures:      
+   Pictures of some artists will be used in the final project. Up until now, only the first women Grammy winner Ella Fitzgerald's photo is used here.
+   However, more artists pictures may appear in the final project and each one's source will be well documented.    
+2. Data:     
+   Most of the data sources here are research articles, news, case studies in music industry and Grammy awards. Some sources are charts themselves, while non of the data visualization here immitates or simply copys the original charts. Only parts of the charts data are used and all the data sources here are publicly accessible.    
+3. Idea:    
+   When figuring out the major reasons for women's low representation in Grammys, some research articles' ideas are used and well documented under each data visualization.    
+      
+       
+# **Method and medium💿**
+The final deliverables will be an interactive stand-alone project created with Shorthand.  
+Each senarios shown above will become 1 or 2 pages of the final Shorthand website. Actions and moves between different pages will be used to increase the interactivity and engagement with potential audience.    
 
