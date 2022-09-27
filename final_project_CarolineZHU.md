@@ -17,7 +17,7 @@ As a music lover or music industry worker, I want to see and work in a music ind
 **Call to action**:  
 I can contribute to a music industry with gender equality by following more the works of female singers, MV directors and producers; and by standing up to support women singers’ rights online when gender discrimination happens.
 
-**Story Arc**:
+**Story Arc**:  
 Emotions of Arc
 <p align = "center">
 <img src="Emotions of Arc.jpg" width="600"/> 
