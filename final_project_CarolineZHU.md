@@ -48,7 +48,7 @@ The whole story is divided into 6 big elements or scenarios of smaller story poi
 
 Show the 1st women gaining Grammy: Ella Fitzgerald;   
 Followed by the gender distribution of nominees in the 1st Grammy in 1959:  
-**woman vs men: 17:109**      
+**woman vs men: 1:6**      
 📍 Story Telling Point: women’s low representation at the very beginning since Grammy has existed.  
    
    
@@ -96,15 +96,15 @@ Then show the general music industry women representation chart break down with 
    
    
    
-## ***Scenario 4️⃣***
-**Reason 1: Sexual Harassment**
-**Sexual Harassment in Music Industry (2019)**   
+## ***Scenario 4️⃣***    
+**Reason 1: Sexual Harassment**    
+**Sexual Harassment in Music Industry Scared Talents Away(2019)**   
 800 female musicians are surveyed on report of sexual harassement
 <p align = "center">
 <img src="Scenario4-1.jpg" width="600"/> 
 </p>     
 [Data Source:Report on Sexual Harassment in Music Industry;](https://musiciansunion.org.uk/legal-money/workplace-rights-and-legislation/the-equality-act-and-guidance/sexual-harassment-at-work/report-on-sexual-harassment-in-music-industry)    
-📍 Story Telling Point: Sexual harassment is highly prevalent in the music industry and severely underreported.    
+📍 Story Telling Point: Sexual harassment is highly prevalent in the music industry and **severely underreported**. Women who want to pursue a career in this industry dare not enter it because the prevalent issues here and some talented women artists just left this industry because of the harassment issues.    
    
 **Reason 2: Ageism**   
 **Average Age Of Winners Of Album Of The Year(1985-2014)**   
@@ -118,7 +118,7 @@ Then show the general music industry women representation chart break down with 
 **Reason 3: Male-dominated jury**   
 **Gender Distribution Of Members In Recording Academy in 2019**   
 <p align = "center">
-<img src="Scenario4-3.jpg" width="600"/> 
+<img src="Scenario4-3.jpeg" width="600"/> 
 </p>       
 [Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)             
 📍 Story Telling Point: Among the Recording Academy members who are the jury of Grammy Music Awards, in 2019, only 31% of members are female.     
@@ -173,5 +173,47 @@ Data referenced here are mainly of 3 types:
        
 # **Method and medium💿**
 The final deliverables will be an interactive stand-alone project created with Shorthand.  
-Each senarios shown above will become 1 or 2 pages of the final Shorthand website. Actions and moves between different pages will be used to increase the interactivity and engagement with potential audience.    
+Each senarios shown above will become 1 or 2 pages of the final Shorthand website. Actions and moves between different pages will be used to increase the interactivity and engagement with potential audience.  
+For creating charts, Canva, Tableau and Flourish will be used.
+
+   
+   
+# **Feedbacks from peers👩🏻‍🎓🧑🏻‍🎓**
+What worked:  
+1. Good story lines and a lot of research with rich information.
+2. Good color parttern choices and intuitive to tell the categories: pink for women and blue for men.     
+3. Charts well related to the main topic.     
+4. Good engagement with the audience.   
+    
+What didn't work and recommendations:   
+1. In the scenario 3, the picture showing CMA awards gender distribution of winners over the years, it's showing only one genre of music, not representative enough of the whole situation. It's more like a case study.   
+2. Understanding gap between sexual harassment and the women artists low representation. More explaination needed to connect those two and probably a more informative title can help.  
+3. The ratio of gender distribution is not intuitive to look at: 17:109; Change it to 1:6.4 or 1:6, then it's more intuitive.   
+4. Some ideas worth highlight to make them stand out: for example, for the sexual harassment part, "severly underreported" can be bolded to highlight.  
+5. The alignment of some charts can be improved, for example, for the sexual harassment part, since two charts talk about the issue, the title can be put in the middle. Besides,the data label line should be put at the right position instead of in the middle of each small bar, otherwise the numbers there can be misleading and confusing like why 58% has shorter bar than 46% bar.    
+6. For scenario 4 Reason 3, put the number outside of pie chart to make the ratio stand out.    
+7. For scenario 5, adjust the arrow size so that it looks more reasonable for the comparison.   
+8. General advice on presentation: too many charts here, may not present them all in one minute.   
+
+Changes made:    
+<p align = "center">
+<img src="priority of changes.jpeg" width="600"/> 
+</p>    
+Based on the feasibility and value to users, I made changes mentioned above on No.2, No.3, No.4, No.6.
+No.2:   
+Title changed from "**Sexual Harassment in Music Industry(2019)**" to "**Sexual Harassment in Music Industry Scared Talents Away(2019)**".   
+One more explaination sentence was added: Women who want to pursue a career in this industry dare not enter it because the prevalent issues here and some talented women artists just left this industry because of the harassment issues.    
+   
+No.3:
+Ratio Changed from **17:109** to **1:6**   
+  
+No.4:
+"severly underreported" is highlighted.  
+  
+No.6:
+The 31% data label was put outside of the pie chart.  
+  
+
+
+
 
