@@ -36,7 +36,7 @@ Gender Distribution Of Nominees In The 1st Grammy In 1959
 </p>       
    
 Show the 1st women gaining Grammy: Ella Fitzgerald;   
-Followed by the gender distribution of nominees in the 1st Grammy in 1959: 
+Followed by the gender distribution of nominees in the 1st Grammy in 1959:  
 **woman vs men: 17:109**      
 Story Telling Point: women’s low representation at the very beginning since Grammy has existed.  
 
