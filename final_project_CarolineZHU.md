@@ -199,9 +199,9 @@ Changes made:
 <p align = "center">
 <img src="priority of changes.jpeg" width="600"/> 
 </p>    
-Based on the feasibility and value to users, I made changes mentioned above on No.2, No.3, No.4, No.6.  
-No.2:   
-Title changed from "**Sexual Harassment in Music Industry(2019)**" to "**Sexual Harassment in Music Industry Scared Talents Away(2019)**".   
+Based on the feasibility and value to users, I made changes mentioned above on No.2, No.3, No.4, No.6.   
+No.2:    
+Title changed from **"Sexual Harassment in Music Industry(2019)"** to **"Sexual Harassment in Music Industry Scared Talents Away(2019)"**.   
 One more explaination sentence was added: Women who want to pursue a career in this industry dare not enter it because the prevalent issues here and some talented women artists just left this industry because of the harassment issues.    
    
 No.3:
