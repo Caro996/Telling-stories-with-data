@@ -1,4 +1,4 @@
-***Outline***
+***Outline🔖***
 ---
 **Summary**  
 This project looks at women singers' representation in Grammy Musical Award over the years.  
@@ -6,7 +6,8 @@ For the past decades of years, women singers have less chance and representation
    
 To change this dilemma, to achieve a certain degree of gender equality in music awards and even the entire music industry, we need each of us to contribute our part.  
   
-**Project Structure & Initial Sketches**
+**Project Structure & Initial Sketches📝**
+---
 **Topic**:   
 Women singers’ representation in Grammy over the years
 
