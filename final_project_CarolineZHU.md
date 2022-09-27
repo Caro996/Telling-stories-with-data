@@ -1,4 +1,4 @@
-***#Outline🔖#***
+#***Outline🔖***
 ---
 **##Summary##**  
 This project looks at women singers' representation in Grammy Musical Award over the years.  
