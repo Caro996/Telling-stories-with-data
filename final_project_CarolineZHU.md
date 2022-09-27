@@ -28,18 +28,39 @@ First woman wining Grammy in 1959: Ella fitzgerald
 <p align = "center">
 <img src="Ella-Fitzgerald-Banner-Image.jpeg" width="600"/> 
 </p>     
-[picture source: GreenLight Rights](https://greenlightrights.com/blog/2018-09-27-ella-fitzgeralds-estate-signs-as-greenlights-newest-icon/).    
+[Picture Source: GreenLight Rights](https://greenlightrights.com/blog/2018-09-27-ella-fitzgeralds-estate-signs-as-greenlights-newest-icon/)          
    
    
 Gender Distribution Of Nominees In The 1st Grammy In 1959
 <p align = "center">
 <img src="Scenario1.jpg" width="600"/> 
 </p>       
-   
+[Data Source: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)       
+
 Show the 1st women gaining Grammy: Ella Fitzgerald;   
 Followed by the gender distribution of nominees in the 1st Grammy in 1959:  
 **woman vs men: 17:109**      
-Story Telling Point: women’s low representation at the very beginning since Grammy has existed.  
+📍 Story Telling Point: women’s low representation at the very beginning since Grammy has existed.  
+   
+   
+*Scenario 2️⃣*      
+Growth of women nominees’ percent share (2013 - 2021)     
+<p align = "center">
+<img src="Scenario2-1.jpg" width="600"/> 
+</p>     
+[Data Source: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)    
+   
+   
+Women Representation Percent Comparison 1959 vs Recent 9 years   
+<p align = "center">
+<img src="Scenario2-2.jpg" width="600"/> 
+</p>       
+[Data Source1: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)  
+[Data Source2: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)       
+   
+Show the growth of women nominees’ percent share of Grammy from 2013 to 2021;    
+Followed by total gender distribution, which is actually similar to that of the 1st Grammy.     
+📍 Story Telling Point: women’s low representation after 50 years.    
 
 
 
