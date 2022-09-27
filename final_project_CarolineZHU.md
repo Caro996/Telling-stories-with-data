@@ -88,11 +88,40 @@ Followed by total gender distribution, which is actually similar to that of the 
 <p align = "center">
 <img src="Scenario3-2.jpg" width="600"/> 
 </p>       
-[Data Source: 4.	Gender Inequality in the Music Industry (2022) – Statistics and Thoughts](https://www.musicianwave.com/gender-inequality-in-the-music-industry-statistics/)       
+[Data Source:Gender Inequality in the Music Industry (2022) – Statistics and Thoughts](https://www.musicianwave.com/gender-inequality-in-the-music-industry-statistics/)       
    
-Show first the time line of 19 years of CMA : women only won in 5 years out of 19 years.    
+Show first the time line of 19 years of CMA : **women only won in 5 years out of 19 years**.    
 Then show the general music industry women representation chart break down with bar charts.        
 📍 Story Telling Point: Gender discrimination is not limited to Grammy, but also the whole music industry.      
+   
+   
+   
+## ***Scenario 4️⃣ ***
+**Reason 1: Sexual Harassment**
+**Sexual Harassment in Music Industry (2019)**   
+800 female musicians are surveyed on report of sexual harassement
+<p align = "center">
+<img src="Scenario4-1.jpg" width="600"/> 
+</p>     
+[Data Source:Report on Sexual Harassment in Music Industry;](https://musiciansunion.org.uk/legal-money/workplace-rights-and-legislation/the-equality-act-and-guidance/sexual-harassment-at-work/report-on-sexual-harassment-in-music-industry)    
+📍 Story Telling Point: Sexual harassment is highly prevalent in the music industry and severely underreported.    
+   
+**Reason 2: Ageism**   
+**Average Age Of Winners Of Album Of The Year(1985-2014)**   
+<p align = "center">
+<img src="Scenario4-2.jpg" width="600"/> 
+</p>       
+[Data Source:Here’s the Last 30 Album of the Year Grammy Winners By Age](https://www.billboard.com/music/music-news/grammy-age-album-year-winners-graphic-6465426/)       
+📍 Story Telling Point: The music industry tend to have higher requirement on female artists age. Music companies prefer artists who are young. This can also be proved by the average age comparison here: the average age of male winners of Album of the Year in Grammy from 1985 to 2014 is 48 while that of women winners is 28.    
+      
+   
+**Reason 3: Male-dominated jury**   
+**Gender Distribution Of Members In Recording Academy in 2019**   
+<p align = "center">
+<img src="Scenario4-3.jpg" width="600"/> 
+</p>       
+[Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)             
+📍 Story Telling Point: Among the Recording Academy members who are the jury of Grammy Music Awards, in 2019, only 31% of members are female.     
 
 
 
