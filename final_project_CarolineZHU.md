@@ -1,5 +1,5 @@
 # ***Outline🔖***
-## **Summary**  
+**Summary**  
 This project looks at women singers' representation in Grammy Musical Award over the years.  
 For the past decades of years, women singers have less chance and representation in Grammy.Fortunately, the situation is getting better recently with a noticeable growth in 2019. However, the gender discrimination still exists in a lot of musical awards.  
    
