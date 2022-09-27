@@ -122,7 +122,28 @@ Then show the general music industry women representation chart break down with 
 </p>       
 [Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)             
 📍 Story Telling Point: Among the Recording Academy members who are the jury of Grammy Music Awards, in 2019, only 31% of members are female.     
+   
+   
+   
+## ***Scenario 5️⃣***
+**Why Grammys are so important to artists?** 
+<p align = "center">
+<img src="Scenario5.jpg" width="600"/> 
+</p>     
+[Data Source: Growth of music sales on the day after the Grammy Awards in 2020, by type](https://www.statista.com/statistics/252744/growth-of-music-sales-following-the-grammay-awards/)    
+Grammy awards drive the sales of songs and are one of the best ways to advertise artists’ songs.
+What happens to females artists is that they are overwhelmed in a vicious circle:   
+1.They do not have money to advertize their songs
+2.Their songs cannot be heard and noticed
+3.Less or even no popuarity makes it hard to gain Grammys
+4.No opportunities to reveal his song at the Grammys
+5.Grammys are always gained by famous artists: success attracts success, while failure induces failure.
+📍 Story Telling Point: More women songs deserve hearing and noticing through Grammys.     
 
-
+## ***Scenario 6️⃣*** 
+**Call to action**   
+1.	Get involved with organizations that support women in audio.  
+2.	Listen to women-created and women-focused music podcasts.  
+3.	Interact on social media.  
 
 
