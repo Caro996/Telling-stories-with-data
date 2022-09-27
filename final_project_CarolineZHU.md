@@ -21,15 +21,15 @@ I can contribute to a music industry with gender equality by following more the 
 <img src="Emotions of Arc.jpg" width="600"/> 
 </p>    
 The whole story is divided into 6 big elements or scenarios of smaller story points:    
-Scenario 1: Women's low representation in Grammy in history.   
-Scenario 2: Women's low representation in Grammy in recent years.   
-Scenario 3: Gender Discrimination is not limited to Grammy, but across the whole industry.    
-Scenario 4: Reasons for Women's low representation in Grammy.   
+**Scenario 1**: Women's low representation in Grammy in history.   
+**Scenario 2**: Women's low representation in Grammy in recent years.   
+**Scenario 3**: Gender Discrimination is not limited to Grammy, but across the whole industry.    
+**Scenario 4**: Reasons for Women's low representation in Grammy.   
             Reason 1: Sexual harassment and objectification.    
             Reason 2: Ageism requirements on female artists.    
             Reason 3: Male-dominated jury.     
-Scenario 5: Why Grammys are so important to artists.     
-Scenario 6: Call to action to support women music creators and industry workers.    
+**Scenario 5**: Why Grammys are so important to artists.     
+**Scenario 6**: Call to action to support women music creators and industry workers.    
 
 ## ***Scenario 1️⃣***
 **First woman wining Grammy in 1959: Ella fitzgerald**
@@ -37,6 +37,7 @@ Scenario 6: Call to action to support women music creators and industry workers.
 <img src="Ella-Fitzgerald-Banner-Image.jpeg" width="600"/> 
 </p>     
 [Picture Source: GreenLight Rights](https://greenlightrights.com/blog/2018-09-27-ella-fitzgeralds-estate-signs-as-greenlights-newest-icon/)          
+   
    
    
 **Gender Distribution Of Nominees In The 1st Grammy In 1959**
@@ -51,15 +52,17 @@ Followed by the gender distribution of nominees in the 1st Grammy in 1959:
 📍 Story Telling Point: women’s low representation at the very beginning since Grammy has existed.  
    
    
+   
 ## ***Scenario 2️⃣***
-**Growth of women nominees’ percent share (2013 - 2021)**     
+**Growth of women nominees’ percent share (2013 - 2021) in Grammy**     
 <p align = "center">
 <img src="Scenario2-1.jpg" width="600"/> 
 </p>     
 [Data Source: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)    
    
    
-**Women Representation Percent Comparison 1959 vs Recent 9 years**   
+   
+**Women Representation Percent Comparison 1959 vs Recent 9 years in Grammy**   
 <p align = "center">
 <img src="Scenario2-2.jpg" width="600"/> 
 </p>       
@@ -69,7 +72,27 @@ Followed by the gender distribution of nominees in the 1st Grammy in 1959:
 Show the growth of women nominees’ percent share of Grammy from 2013 to 2021;    
 Followed by total gender distribution, which is actually similar to that of the 1st Grammy.     
 📍 Story Telling Point: women’s low representation after 50 years.    
-
+   
+   
+   
+## ***Scenario 3️⃣***
+**CMA(Country Music Association Award) Winners By Gender (2000 - 2019)**     
+<p align = "center">
+<img src="Scenario3-1.jpg" width="600"/> 
+</p>     
+[Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)    
+   
+   
+   
+**Women Representation Of 900 Popular Songs(2012-2020) in the US Music Industry**   
+<p align = "center">
+<img src="Scenario3-2.jpg" width="600"/> 
+</p>       
+[Data Source: 4.	Gender Inequality in the Music Industry (2022) – Statistics and Thoughts](https://www.musicianwave.com/gender-inequality-in-the-music-industry-statistics/)       
+   
+Show first the time line of 19 years of CMA : women only won in 5 years out of 19 years.    
+Then show the general music industry women representation chart break down with bar charts.        
+📍 Story Telling Point: Gender discrimination is not limited to Grammy, but also the whole music industry.      
 
 
 
