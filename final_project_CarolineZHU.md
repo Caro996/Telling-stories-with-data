@@ -19,7 +19,9 @@ I can contribute to a music industry with gender equality by following more the 
 
 **Story Arc**:
 Emotions of Arc
-
+<p align = "center">
+<img src="IMG_7802.JPG" width="600"/> 
+</p>
 
 
 
