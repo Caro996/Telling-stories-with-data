@@ -96,7 +96,7 @@ Then show the general music industry women representation chart break down with 
    
    
    
-## Scenario 4️⃣
+## ***Scenario 4️⃣***
 **Reason 1: Sexual Harassment**
 **Sexual Harassment in Music Industry (2019)**   
 800 female musicians are surveyed on report of sexual harassement
