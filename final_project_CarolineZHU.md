@@ -1,4 +1,3 @@
 ***Outline***
-
 ---
 **Summary**
