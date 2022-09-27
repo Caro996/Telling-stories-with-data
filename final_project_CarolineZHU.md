@@ -199,19 +199,19 @@ Changes made:
 <p align = "center">
 <img src="priority of changes.jpeg" width="600"/> 
 </p>    
-Based on the feasibility and value to users, I made changes mentioned above on No.2, No.3, No.4, No.6.
+Based on the feasibility and value to users, I made changes mentioned above on No.2, No.3, No.4, No.6.  
 No.2:   
 Title changed from "**Sexual Harassment in Music Industry(2019)**" to "**Sexual Harassment in Music Industry Scared Talents Away(2019)**".   
 One more explaination sentence was added: Women who want to pursue a career in this industry dare not enter it because the prevalent issues here and some talented women artists just left this industry because of the harassment issues.    
    
 No.3:
-Ratio Changed from **17:109** to **1:6**   
-  
+Ratio Changed from **17:109** to **1:6**    
+   
 No.4:
-"severly underreported" is highlighted.  
-  
+"severly underreported" is highlighted.   
+   
 No.6:
-The 31% data label was put outside of the pie chart.  
+The 31% data label was put outside of the pie chart.   
   
 
 
