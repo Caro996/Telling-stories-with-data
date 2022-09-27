@@ -151,15 +151,15 @@ What happens to females artists is that they are overwhelmed in a vicious circle
 Data Sources List:
 1. [Picture Source: GreenLight Rights](https://greenlightrights.com/blog/2018-09-27-ella-fitzgeralds-estate-signs-as-greenlights-newest-icon/)   
 2. [Data Source: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)    
-3. [Data Source: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)       
-4. [Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)    
-5. [Data Source:Gender Inequality in the Music Industry (2022) – Statistics and Thoughts](https://www.musicianwave.com/gender-inequality-in-the-music-industry-statistics/)   
-6. [Data Source:Report on Sexual Harassment in Music Industry;](https://musiciansunion.org.uk/legal-money/workplace-rights-and-legislation/the-equality-act-and-guidance/sexual-harassment-at-work/report-on-sexual-harassment-in-music-industry)      
-7. [Data Source:Here’s the Last 30 Album of the Year Grammy Winners By Age](https://www.billboard.com/music/music-news/grammy-age-album-year-winners-graphic-6465426/)   
-8. [Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)    
-9. [Data Source: Growth of music sales on the day after the Grammy Awards in 2020, by type](https://www.statista.com/statistics/252744/growth-of-music-sales-following-the-grammay-awards/)    
-10. [Idea Source: These Are 3 Of The Biggest Drivers Of Gender Inequality In Music](https://www.forbes.com/sites/andreabossi/2021/03/26/these-are-3-of-the-biggest-reported-drivers-of-gender-inequality-in-music/) 
-11. [Idea Source: 10 Ways To Support Women Musicians & Creators Year-Round](https://www.grammy.com/news/10-ways-to-support-women-in-music-year-round) 
+3. [Data Source: Share of Grammy nominations in the United States from 2013 to 2021, by gender, Statista](https://www.statista.com/statistics/801372/gender-grammy-nominees/)       
+4. [Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019; JADA E. WATSON](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)    
+5. [Data Source:Gender Inequality in the Music Industry (2022) – Statistics and Thoughts;Milan Trajkovikj;February 11, 2022](https://www.musicianwave.com/gender-inequality-in-the-music-industry-statistics/)   
+6. [Data Source:Report on Sexual Harassment in Music Industry;Musicians' union; 25 March 2022](https://musiciansunion.org.uk/legal-money/workplace-rights-and-legislation/the-equality-act-and-guidance/sexual-harassment-at-work/report-on-sexual-harassment-in-music-industry)      
+7. [Data Source:Here’s the Last 30 Album of the Year Grammy Winners By Age; Joe Lynch; 06 Feb. 2015](https://www.billboard.com/music/music-news/grammy-age-album-year-winners-graphic-6465426/)   
+8. [Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members; Paul Grein; 9 September 2022](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)    
+9. [Data Source: Growth of music sales on the day after the Grammy Awards in 2020, by type; Statista](https://www.statista.com/statistics/252744/growth-of-music-sales-following-the-grammay-awards/)    
+10. [Idea Source: These Are 3 Of The Biggest Drivers Of Gender Inequality In Music; Andrea Bossi; Mar 26, 2021](https://www.forbes.com/sites/andreabossi/2021/03/26/these-are-3-of-the-biggest-reported-drivers-of-gender-inequality-in-music/) 
+11. [Idea Source: 10 Ways To Support Women Musicians & Creators Year-Round; LILY MOAYERI; MAR 2, 2022](https://www.grammy.com/news/10-ways-to-support-women-in-music-year-round) 
 
 Data referenced here are mainly of 3 types:    
 1. Pictures:      
