@@ -10,7 +10,7 @@ Story 1:
 Story 2:
 **Gender Distribution Of Nominees In The 1st Grammy In 1959**   
 <p align = "center">
-<img src="Scenario1-1.jpg" width="600"/> 
+<img src="Scenario1-1.jpeg" width="600"/> 
 </p>       
 [Data Source: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)   
 During the 1st Grammy, there were in total 109 nominees for 26 awards, out of which only 17 are womens.  
