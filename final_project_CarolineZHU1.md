@@ -191,11 +191,36 @@ Two of the interviewees are girls and feminists: one is a PHD student in finance
 | **Q4:  Do you think the color parttern design suit the topic well?**| **The color selection** is relatively easy to understand for the public, **fits the female theme**, the overall tone is consistent, and has a good visual education for users; **the background color of large pink is dirty**, and there are too many pink elements, which are not intuitive, and **the chart background needs to be left blank to appear clearer**  | **The background color looks dirty**, maybe with a peach-colored background and white words, the overall visual effect will be much cleaner; when designing web pages, you can embed pictures in the background and **make the charts in acrylic translucent form** | The choice of color tone is in line with the topic of women's feminism; the chart annotation font can be larger and more reader-friendly | 
 | **Q5:  How engaged do you feel about the whole story? Will you respond to the call to action?**| The story as a whole is very provocative. The choice of angles and numbers stimulates empathy and sympathy, but the language of **call to action itself is not refined enough**, and the sentences are too long to lose the meaning of slogan.  | The story is not provocative enough, **the call to action part can be highlighted in the floating box or tab, users can take action without browsing the entire content**; the website can play the background music of female singers, and the website finally displays the source of background music  | The content of the story is clearly visible to the status quo of women in the music industry, but **the explanation of the reasons is still at a relatively shallow level and has limited persuasive power**, which will affect the motivation of the final call to action.  | 
 | **Q6:  Is there anything you would change or do differently?**| **Change color background board to white** and leave space; I will add some pictures to increase the atmosphere of each big part to enrich the whole story; **add a Hall of Fame picture of a female musician** who has made outstanding contributions to express that despite the industry situation is not friendly to women , there are still many female musicians who are drawn out, so as to improve the user's browsing mood, so as to better call to action| Figure 1-2, need to add a color block legend and logo name; **Figure 2-2**: The title can be more informative, the chart can just show the change in the proportion of women, so as to focus more on the core point, and **the progress can be presented with a donut chart** ; Figure 3-2 Add emoji to highlight different categories; Figure 4-1: Need to explain the research background (800 female music practitioners), the title of Report or Not should be more specific: Report or Not of witness & experience, gradients can be used for different categories Color representation; Figure 4-2: Use word cloud to form age to make the content richer; Figure 5: Smaller spacing between arrows | I will interview a female musician who has relevant experience, or **find an interview with a female musician** about the status and status of female music practitioners. It will be more convincing to use her personal story as the entire storyline. |     
-  
-**Changes planned**
-  
-  
-  
+       
+       
+**Main Findings & Possible changes**
+For story logic and contents:       
+1. An overall frame or sturcture is needed. In this draft, it can be a catalog. In the web page, it can be a tab at the very front of each page.     
+2. An introduction is needed for engaging audience who are not familiar with Grammy Awards, especially Grammy's logo and importance in music industry.   
+3. The call to action part should be again refined into short slogans to be more provocative.     
+4. Current reasoning part is not persuasive enough since the data shown here may not directly prove the reasons stated.     
+
+For charts:        
+5. The background color seems dirty and makes the chart not intuitive enough.         
+6. Most titles of charts are simply descriptive and not intuitive enough. Can add subtite to strengthen the story telling point.       
+7. Chart 1-2: for people who are not familiar with Grammy logo, chart can be confusing.       
+8. Chart 2-1: the growth rate itself is not intuitive. Directly showing the representation ratio will be better.           
+9. Chart 2-2: can try donut chart to better show the idea of the chart.       
+10. Chart 4-1: gradient colors can be used to differentiate between different categories.      
+11. Chart 4-2: word cloud of winners' names can be used to form the age shape and make the chart richer
+12. Chart 5  : the space between each arrow is too big.
+       
+       
+**Changes Made & Planned**     
+<p align = "center">     
+<img src="Priority of Changes.jpg" width="600"/> 
+</p>     
+As shown in the priority of changes chart, the change inthe first quadrant with high value and high feasibility was performed in this job already.     
+For change 2 and 7: : since the main audience of this project is music lovers, most of them know the importance of Grammy and the logo of Grammy. Thus, no introduction of Grammy at the very front should be fine.        
+For change 10,11,12: even though they are of high value to users, it takes time to fix it. Thus, these changes will be included in the next week's work and finally on shorthand display.       
+         
+For change 4: it's not easy to get direct data related to the reasons of women musicians' low representation. Also, since the other two interviewees can get the chart stories of reasons part relatively intuitively, this change will not be implemented in short term.       
+      
 # **Use of Data📊**
 Data Sources List:
 1. [Picture Source: wikipedia](https://en.wikipedia.org/wiki/Ella_Fitzgerald#/media/File:Ella_Fitzgerald_1962.JPG)   
