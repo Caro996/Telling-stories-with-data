@@ -43,7 +43,8 @@ In recent years, the women nominees representation fluctuate a lot with an incre
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   if ( divElement.offsetWidth > 800 ) { vizElement.style.width='700px';vizElement.style.height='417px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='700px';vizElement.style.height='417px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>    
 [Data Source1: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)  
 [Data Source2: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)   
 After 50 years, women nominees' representation barely changed.   
@@ -98,7 +99,8 @@ After 50 years, women nominees' representation barely changed.
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   if ( divElement.offsetWidth > 800 ) { vizElement.style.width='700px';vizElement.style.height='177px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='700px';vizElement.style.height='177px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>     
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>     
 [Data Source:Here’s the Last 30 Album of the Year Grammy Winners By Age](https://www.billboard.com/music/music-news/grammy-age-album-year-winners-graphic-6465426/)    
 The music industry tend to have higher requirement on female artists age. Music companies prefer artists who are young. This can also be proved by the average age comparison here: the average age of male winners of Album of the Year in Grammy from 1985 to 2014 is 48 while that of women winners is 28.  
    
