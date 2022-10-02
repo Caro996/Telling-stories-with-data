@@ -161,7 +161,7 @@ Most women artists have social media account where they share their daily music 
   
 # **Moodboard🎨**
 <p align = "center">     
-<img src="Moodboards with color pattern.png" width="600"/> 
+<img src="Moodboards with color pattern.png" width="800"/> 
 </p>  
 [Picture Source: Women Music Pictures From iStock](https://www.istockphoto.com/search/2/image?phrase=women%20music&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography&utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-music&utm_term=women%20music%3A%3A%3A)
 As shown in the color palette, the color which relates the most to women is color like pink, purple. This is also chosen as the design color for most data visualizations above.  
@@ -178,10 +178,16 @@ To diversify the interviewees, The individuals chosen have different appetite fo
 Besides, interviewees chosen have an age range including Millennials and Generation Z.
 Two of the interviewees are girls and feminists, the other interviewee is a man who is not feminist. Choosing both ones who are feminists and who are not may help see the whole story in different ways.
   
-| Questions  | Interviewee A| Interviewee B| Interviewee C|
-| ------------- | ------------- |------------- |------------- |
-| Q1:  | Content Cell  |  Content Cell  |  Content Cell  |
-| Q2:  | Content Cell  |  Content Cell  |  Content Cell  |
+| Questions  | Interviewee A| Interviewee B| Interviewee C|Main findings|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Q1:  Are all the storyboards clear and closely related to the main topic ?| Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
+| Q2:  Is there anything you find surprising? What works well?| Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
+| Q3:  Is there anything you find confusing? What doesn't work well?| Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
+| Q4:  Do you think the color parttern design suit the topic well?| Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
+| Q5:  How engaged do you feel about the whole story? Will you respond to the call to action?| Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |
+| Q6:  Is there anything you would change or do differently?| Content Cell  |  Content Cell  |  Content Cell  |  Content Cell  |          
+  
+**Changes planned*
   
   
   
