@@ -158,7 +158,7 @@ Most women artists have social media account where they share their daily music 
   
 # **Moodboard🎨**
 <p align = "center">     
-<img src="Moodboards with color pattern.png" width="800"/> 
+<img src="Moodboards with color pattern.png" width="1000"/> 
 </p>  
 [Picture Source: Women Music Pictures From iStock](https://www.istockphoto.com/search/2/image?phrase=women%20music&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography&utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-music&utm_term=women%20music%3A%3A%3A)
 As shown in the color palette, the color which relates the most to women is color like pink, purple. This is also chosen as the design color for most data visualizations above.  
