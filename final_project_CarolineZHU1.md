@@ -159,6 +159,32 @@ Most women artists have social media account where they share their daily music 
 **🎙 Follow, interact, comment, retweet, share.** Speak up when gender discrimination discussion happen online. Your simple click and voice can make a huge difference.  
   
   
+# **Moodboard🎨**
+<p align = "center">     
+<img src="Moodboards with color pattern.png" width="600"/> 
+</p>  
+[Picture Source: Women Music Pictures From iStock](https://www.istockphoto.com/search/2/image?phrase=women%20music&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography&utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-music&utm_term=women%20music%3A%3A%3A)
+As shown in the color palette, the color which relates the most to women is color like pink, purple. This is also chosen as the design color for most data visualizations above.  
+  
+  
+# **User Research and interviews👂🏻**         
+**Target Audience**       
+The main target audience are **music fans or lovers** who listen to different kinds of music.   
+As the call to action of this whole project is to ask for people to participate and move to help female artists and build a music industry where both male and female have aqual opportunities, music fans or lovers or at least people who follow music and artists will be more likely to relate to the content.  
+  
+**Approach to identify representative individuals**
+Since I myselft am a big music fan, I also have some friends who are music fans.    
+To diversify the interviewees, The individuals chosen have different appetite for music. Some love jazz, some love pop music, some prefer rock and some prefer light music.   
+Besides, interviewees chosen have an age range including Millennials and Generation Z.
+Two of the interviewees are girls and feminists, the other interviewee is a man who is not feminist. Choosing both ones who are feminists and who are not may help see the whole story in different ways.
+  
+| Questions  | Interviewee A| Interviewee B| Interviewee C|
+| ------------- | ------------- |------------- |------------- |
+| Q1:  | Content Cell  |  Content Cell  |  Content Cell  |
+| Q2:  | Content Cell  |  Content Cell  |  Content Cell  |
+  
+  
+  
 # **Use of Data📊**
 Data Sources List:
 1. [Picture Source: wikipedia](https://en.wikipedia.org/wiki/Ella_Fitzgerald#/media/File:Ella_Fitzgerald_1962.JPG)   
@@ -171,7 +197,11 @@ Data Sources List:
 8. [Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members; Paul Grein; 9 September 2022](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)    
 9. [Data Source: Growth of music sales on the day after the Grammy Awards in 2020, by type; Statista](https://www.statista.com/statistics/252744/growth-of-music-sales-following-the-grammay-awards/)    
 10. [Idea Source: These Are 3 Of The Biggest Drivers Of Gender Inequality In Music; Andrea Bossi; Mar 26, 2021](https://www.forbes.com/sites/andreabossi/2021/03/26/these-are-3-of-the-biggest-reported-drivers-of-gender-inequality-in-music/) 
-11. [Idea Source: 10 Ways To Support Women Musicians & Creators Year-Round; LILY MOAYERI; MAR 2, 2022](https://www.grammy.com/news/10-ways-to-support-women-in-music-year-round) 
+11. [Idea Source: 10 Ways To Support Women Musicians & Creators Year-Round; LILY MOAYERI; MAR 2, 2022](https://www.grammy.com/news/10-ways-to-support-women-in-music-year-round)   
+12. [Picture Source: Women Music Pictures From iStock](https://www.istockphoto.com/search/2/image?phrase=women%20music&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography&utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-music&utm_term=women%20music%3A%3A%3A)
+  
+  
+
 
 
   
