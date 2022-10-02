@@ -52,5 +52,5 @@ Below are my data stories with data visualizations:
 🚗 [Most Commonly Used Transportation in US](Commute to work in US.md)  
    
 ### Final Project
-[Part 1](final_project_CarolineZHU.md) 
+[Part 1](final_project_CarolineZHU.md)    
 [Part 2](final_project_CarolineZHU1.md)
