@@ -10,8 +10,7 @@ For the past decades of years, women singers have less chance and representation
 [Picture Source: wikipedia](https://en.wikipedia.org/wiki/Ella_Fitzgerald#/media/File:Ella_Fitzgerald_1962.JPG).   
 Dubbed “The First Lady of Song,” **Ella Fitzgerald** was the most popular female jazz singer in the United States for more than half a century. In 1959, she became the first women who won Grammy in history. In her lifetime, she won 13 Grammy awards and sold over 40 million albums.  
 <br/>  
-<br/>    
-<br/>    
+<br/>      
    
 💡Story 2:   
 **Gender Distribution Of Nominees In The 1st Grammy In 1959**   
@@ -22,8 +21,7 @@ Dubbed “The First Lady of Song,” **Ella Fitzgerald** was the most popular fe
 During the 1st Grammy, there were in total 109 nominees for 26 awards, out of which only 17 are womens.  
 This means: for every **6 male nominees**, there is only **1 female nominee**.     
 <br/>  
-<br/>    
-<br/>    
+<br/>      
    
 ## **Part 2: Look Into Grammy Nowadays**          
 💡Story 1:     
@@ -41,7 +39,6 @@ This means: for every **6 male nominees**, there is only **1 female nominee**.
 In recent years, the women nominees representation fluctuate a lot with an increasing trend.
 <br/>
 <br/>
-<br/>
         
 💡Story 2:  
 **Women Representation Percent Comparison 1959 vs Recent 9 years in Grammy**   
@@ -52,8 +49,7 @@ In recent years, the women nominees representation fluctuate a lot with an incre
 [Data Source2: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)   
 After 50 years, women nominees' representation barely changed.   
 <br/>      
-<br/>      
-<br/>      
+<br/>           
        
 ## **Part 3: Look at other music awards & whole music industry in US**
 💡Story 1:  
@@ -65,7 +61,6 @@ After 50 years, women nominees' representation barely changed.
   Out of 20 CMA winners from 2000 to 2019, only 5 winners are women.   
 <br/>        
 <br/>        
-<br/>
        
 💡Story 2:
   **Women Representation Of 900 Popular Songs(2012-2020) in the US Music Industry**   
@@ -81,7 +76,6 @@ After 50 years, women nominees' representation barely changed.
   Gender discrimination is not limited to Grammy, but also the whole music industry.    
 <br/>       
 <br/>       
-<br/>
        
 ## **Part 4: Dig into the reasons of women's low representation**   
 💡Story 1:
@@ -97,8 +91,7 @@ After 50 years, women nominees' representation barely changed.
   [Data Source:Report on Sexual Harassment in Music Industry;](https://musiciansunion.org.uk/legal-money/workplace-rights-and-legislation/the-equality-act-and-guidance/sexual-harassment-at-work/report-on-sexual-harassment-in-music-industry)   
   Sexual harassment is highly prevalent in the music industry and **severely underreported**. Women who want to pursue a career in this industry dare not enter it because the prevalent issues here and some talented women artists just left this industry because of the harassment issues.    
 <br/>       
-<br/>       
-<br/>     
+<br/>           
        
 💡Story 2:
 **Ageism: Music industry has much stronger preference on young women then young men**
@@ -109,7 +102,6 @@ After 50 years, women nominees' representation barely changed.
 The music industry tend to have higher requirement on female artists age. Music companies prefer artists who are young. This can also be proved by the average age comparison here: the average age of male winners of Album of the Year in Grammy from 1985 to 2014 is 48 while that of women winners is 28.  
 <br/>      
 <br/>      
-<br/>
        
 💡Story 3:
 **Male-dominated jury: The Grammy Jury Association: Recording Academy is dominated by male members**
@@ -124,8 +116,7 @@ The music industry tend to have higher requirement on female artists age. Music 
 [Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)        
   Among the Recording Academy members who are the jury of Grammy Music Awards, in 2019, only 31% of members are female.  
 <br/>       
-<br/>      
-<br/>       
+<br/>            
        
 ## **Part 5: Learn about the importance of Grammies**      
  💡story 1:      
@@ -148,7 +139,6 @@ What happens to females artists is that they are overwhelmed in a **vicious circ
 More women songs deserve hearing and noticing through Grammys.  
 <br/>     
 <br/>     
-<br/>
        
 ## **Part 6: Let's do something to help women artists!**   
  💡Call to action   
@@ -169,7 +159,6 @@ Most women artists have social media account where they share their daily music 
 **🎙 Follow, interact, comment, retweet, share.** Speak up when gender discrimination discussion happen online. Your simple click and voice can make a huge difference.  
 <br/>  
 <br/>     
-<br/>
        
 # **Moodboard🎨**
 <p align = "center">     
@@ -179,7 +168,6 @@ Most women artists have social media account where they share their daily music 
 As shown in the color palette, the color which relates the most to women is color like pink, purple. This is also chosen as the design color for most data visualizations above.  
 <br/>      
 <br/>     
-<br/>
        
 # **User Research and interviews👂🏻**         
 **Target Audience**       
@@ -187,7 +175,6 @@ The main target audience are **music fans or lovers** who listen to different ki
 As the call to action of this whole project is to ask for people to participate and move to help female artists and build a music industry where both male and female have aqual opportunities, music fans or lovers or at least people who follow music and artists will be more likely to relate to the content.      
 <br/>       
 <br/>       
-<br/>
        
 **Approach to identify representative individuals**       
 Since I myselft am a big music fan, I also have some friends who are music fans.    
@@ -196,14 +183,14 @@ To diversify the interviewees, The individuals chosen have different appetite fo
 Besides, interviewees chosen have an age range including Millennials and Generation Z.        
 Two of the interviewees are girls and feminists: one is a PHD student in finance research, the other is a video game UI designer. The other interviewee is a women who is a product manager and is not feminist. Choosing both ones who are feminists and who are not may help see the whole story in different ways.         
   
-| Questions  | Product Manager S| UI designer J| PHD student in finance C|
-| ------------- | ------------- | ------------- | ------------- |
-| **Q1:  Are all the storyboards clear and closely related to the main topic ?**| On the whole, yes, but the overall content is not only a description of the proportion of women, but more description and analysis of the status and status of female musicians in the industry. The purpose is to call attention to female musicians. Therefore, **the title itself should be more A call to action, stating a point of view.** | It is closely related to the theme, but because there is too much content, **the way of scrolling through the interface cuts off the connection between parts**, making a tab directory, and clicking directly to the corresponding part will make the structure clearer; when making a web page, you must have a start cover page| In terms of content, the connection is strong, but **it lacks an overall framework to string together the stories in different parts**; for those who don’t know the Grammys, the story is not attractive, and it is **better to add a part of the introduction to the Grammy Awards** at the top , the logic is more complete |
-| **Q2:  Is there anything you find surprising? What works well in charts?**| Colors are intuitive, clear at a glance, in line with public perception; the data presented by the selected story dimension is very sharp, and the contrast and difference are large, which makes people feel shocking; most of the charts can relatively intuitively display the stories to be expressed | The selection and presentation of sexual harassment topics and data is shocking and impressive; the age chart and digital dashboard are eye-catching; the perspective and data of the story logic are more attractive| Neat and uniform tones; can quickly understand the story most charts are telling|
-| **Q3:  Is there anything you find confusing? What doesn't work well in charts?**|Figure 2-1 The **selection of the line chart is quite confusing**, and it is difficult for users to understand intuitively. It is **more intuitive to stack the bar chart** directly with the actual proportion of women; the background color of other charts should be changed, and the **current background color looks dirty**|The **background color is dirty**; the size of the chart is not uniform; the key points that you want to express in the chart can be emphasized in some ways; **all charts can be headlined to describe the facts, and subtitles to explain the core story point of view;** **Chart 2-1 appears empty in presentation** ;For Figure 1-2, I'm confused if I don't know the logo; Figure 2-2: The meaning of the chart is not clear enough; Figure 3-2 can add emoji to highlight different categories; Figure 4-1: The background and title content are not informative enough | The logical structure of the story is clear, but **the content of different storiesboards feels very scattered and needs a unified framework**; **Figure 2-1 directly using the ratio will be more intuitive**, and the current growth rate will take time to understand; if the importance of Grammys is placed In the front, it will help attract readers; some feminist elements can be added to the call to action part, which will be more provocative; adding a ring diagram to the vicious circle part will be more intuitive and easy to understand  |
-| **Q4:  Do you think the color parttern design suit the topic well?**| **The color selection** is relatively easy to understand for the public, **fits the female theme**, the overall tone is consistent, and has a good visual education for users; **the background color of large pink is dirty**, and there are too many pink elements, which are not intuitive, and **the chart background needs to be left blank to appear clearer**  | **The background color looks dirty**, maybe with a peach-colored background and white words, the overall visual effect will be much cleaner; when designing web pages, you can embed pictures in the background and **make the charts in acrylic translucent form** | The choice of color tone is in line with the topic of women's feminism; the chart annotation font can be larger and more reader-friendly | 
-| **Q5:  How engaged do you feel about the whole story? Will you respond to the call to action?**| The story as a whole is very provocative. The choice of angles and numbers stimulates empathy and sympathy, but the language of **call to action itself is not refined enough**, and the sentences are too long to lose the meaning of slogan.  | The story is not provocative enough, **the call to action part can be highlighted in the floating box or tab, users can take action without browsing the entire content**; the website can play the background music of female singers, and the website finally displays the source of background music  | The content of the story is clearly visible to the status quo of women in the music industry, but **the explanation of the reasons is still at a relatively shallow level and has limited persuasive power**, which will affect the motivation of the final call to action.  | 
-| **Q6:  Is there anything you would change or do differently?**| **Change color background board to white** and leave space; I will add some pictures to increase the atmosphere of each big part to enrich the whole story; **add a Hall of Fame picture of a female musician** who has made outstanding contributions to express that despite the industry situation is not friendly to women , there are still many female musicians who are drawn out, so as to improve the user's browsing mood, so as to better call to action| Figure 1-2, need to add a color block legend and logo name; **Figure 2-2**: The title can be more informative, the chart can just show the change in the proportion of women, so as to focus more on the core point, and **the progress can be presented with a donut chart** ; Figure 3-2 Add emoji to highlight different categories; Figure 4-1: Need to explain the research background (800 female music practitioners), the title of Report or Not should be more specific: Report or Not of witness & experience, gradients can be used for different categories Color representation; Figure 4-2: Use word cloud to form age to make the content richer; Figure 5: Smaller spacing between arrows | I will interview a female musician who has relevant experience, or **find an interview with a female musician** about the status and status of female music practitioners. It will be more convincing to use her personal story as the entire storyline. |     
+| Questions  | Product Manager S| UI designer J| PHD student in finance C|       
+| ------------- | ------------- | ------------- | ------------- |       
+| **Q1:  Are all the storyboards clear and closely related to the main topic ?**| On the whole, yes, but the overall content is not only a description of the proportion of women, but more description and analysis of the status and status of female musicians in the industry. The purpose is to call attention to female musicians. Therefore, **the title itself should be more A call to action, stating a point of view.** | It is closely related to the theme, but because there is too much content, **the way of scrolling through the interface cuts off the connection between parts**, making a tab directory, and clicking directly to the corresponding part will make the structure clearer; when making a web page, you must have a start cover page| In terms of content, the connection is strong, but **it lacks an overall framework to string together the stories in different parts**; for those who don’t know the Grammys, the story is not attractive, and it is **better to add a part of the introduction to the Grammy Awards** at the top , the logic is more complete |       
+| **Q2:  Is there anything you find surprising? What works well in charts?**| Colors are intuitive, clear at a glance, in line with public perception; the data presented by the selected story dimension is very sharp, and the contrast and difference are large, which makes people feel shocking; most of the charts can relatively intuitively display the stories to be expressed | The selection and presentation of sexual harassment topics and data is shocking and impressive; the age chart and digital dashboard are eye-catching; the perspective and data of the story logic are more attractive| Neat and uniform tones; can quickly understand the story most charts are telling|       
+| **Q3:  Is there anything you find confusing? What doesn't work well in charts?**|Figure 2-1 The **selection of the line chart is quite confusing**, and it is difficult for users to understand intuitively. It is **more intuitive to stack the bar chart** directly with the actual proportion of women; the background color of other charts should be changed, and the **current background color looks dirty**|The **background color is dirty**; the size of the chart is not uniform; the key points that you want to express in the chart can be emphasized in some ways; **all charts can be headlined to describe the facts, and subtitles to explain the core story point of view;** **Chart 2-1 appears empty in presentation** ;For Figure 1-2, I'm confused if I don't know the logo; Figure 2-2: The meaning of the chart is not clear enough; Figure 3-2 can add emoji to highlight different categories; Figure 4-1: The background and title content are not informative enough | The logical structure of the story is clear, but **the content of different storiesboards feels very scattered and needs a unified framework**; **Figure 2-1 directly using the ratio will be more intuitive**, and the current growth rate will take time to understand; if the importance of Grammys is placed In the front, it will help attract readers; some feminist elements can be added to the call to action part, which will be more provocative; adding a ring diagram to the vicious circle part will be more intuitive and easy to understand  |     
+| **Q4:  Do you think the color parttern design suit the topic well?**| **The color selection** is relatively easy to understand for the public, **fits the female theme**, the overall tone is consistent, and has a good visual education for users; **the background color of large pink is dirty**, and there are too many pink elements, which are not intuitive, and **the chart background needs to be left blank to appear clearer**  | **The background color looks dirty**, maybe with a peach-colored background and white words, the overall visual effect will be much cleaner; when designing web pages, you can embed pictures in the background and **make the charts in acrylic translucent form** | The choice of color tone is in line with the topic of women's feminism; the chart annotation font can be larger and more reader-friendly |        
+| **Q5:  How engaged do you feel about the whole story? Will you respond to the call to action?**| The story as a whole is very provocative. The choice of angles and numbers stimulates empathy and sympathy, but the language of **call to action itself is not refined enough**, and the sentences are too long to lose the meaning of slogan.  | The story is not provocative enough, **the call to action part can be highlighted in the floating box or tab, users can take action without browsing the entire content**; the website can play the background music of female singers, and the website finally displays the source of background music  | The content of the story is clearly visible to the status quo of women in the music industry, but **the explanation of the reasons is still at a relatively shallow level and has limited persuasive power**, which will affect the motivation of the final call to action.  |        
+| **Q6:  Is there anything you would change or do differently?**| **Change color background board to white** and leave space; I will add some pictures to increase the atmosphere of each big part to enrich the whole story; **add a Hall of Fame picture of a female musician** who has made outstanding contributions to express that despite the industry situation is not friendly to women , there are still many female musicians who are drawn out, so as to improve the user's browsing mood, so as to better call to action| Figure 1-2, need to add a color block legend and logo name; **Figure 2-2**: The title can be more informative, the chart can just show the change in the proportion of women, so as to focus more on the core point, and **the progress can be presented with a donut chart** ; Figure 3-2 Add emoji to highlight different categories; Figure 4-1: Need to explain the research background (800 female music practitioners), the title of Report or Not should be more specific: Report or Not of witness & experience, gradients can be used for different categories Color representation; Figure 4-2: Use word cloud to form age to make the content richer; Figure 5: Smaller spacing between arrows | I will interview a female musician who has relevant experience, or **find an interview with a female musician** about the status and status of female music practitioners. It will be more convincing to use her personal story as the entire storyline. |            
 <br/>       
 <br/>
        
@@ -234,7 +221,6 @@ For change 10,11,12: even though they are of high value to users, it takes time 
          
 For change 4: it's not easy to get direct data related to the reasons of women musicians' low representation. Also, since the other two interviewees can get the chart stories of reasons part relatively intuitively, this change will not be implemented in short term.       
 <br/>       
-<br/>
 <br/>
              
 # **Use of Data📊**
