@@ -12,6 +12,7 @@ Dubbed “The First Lady of Song,” **Ella Fitzgerald** was the most popular fe
 <br/>  
 <br/>    
 <br/>    
+   
 💡Story 2:   
 **Gender Distribution Of Nominees In The 1st Grammy In 1959**   
 <p align = "center">     
@@ -23,6 +24,7 @@ This means: for every **6 male nominees**, there is only **1 female nominee**.
 <br/>  
 <br/>    
 <br/>    
+   
 ## **Part 2: Look Into Grammy Nowadays**          
 💡Story 1:     
 **Growth Rate of Women Nominees’ Representation (2013 - 2021)**     
@@ -37,9 +39,10 @@ This means: for every **6 male nominees**, there is only **1 female nominee**.
 </script>   
 [Data Source: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)   
 In recent years, the women nominees representation fluctuate a lot with an increasing trend.
-    
-    
-    
+<br/>
+<br/>
+<br/>
+        
 💡Story 2:  
 **Women Representation Percent Comparison 1959 vs Recent 9 years in Grammy**   
 <p align = "left">
@@ -48,9 +51,10 @@ In recent years, the women nominees representation fluctuate a lot with an incre
 [Data Source1: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)  
 [Data Source2: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)   
 After 50 years, women nominees' representation barely changed.   
-      
-      
-      
+<br/>      
+<br/>      
+<br/>      
+       
 ## **Part 3: Look at other music awards & whole music industry in US**
 💡Story 1:  
 **CMA(Country Music Association Award) Winners By Gender (2000 - 2019)**     
@@ -59,10 +63,11 @@ After 50 years, women nominees' representation barely changed.
 </p>           
   [Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)   
   Out of 20 CMA winners from 2000 to 2019, only 5 winners are women.   
-        
-        
-        
-  💡Story 2:
+<br/>        
+<br/>        
+<br/>
+       
+💡Story 2:
   **Women Representation Of 900 Popular Songs(2012-2020) in the US Music Industry**   
   <div class='tableauPlaceholder' id='viz1664672665862' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WomenRepresentationOf900PopularSongs2012-2020&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WomenRepresentationOf900PopularSongs2012-2020&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WomenRepresentationOf900PopularSongs2012-2020&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
   <script type='text/javascript'>                    
@@ -74,8 +79,9 @@ After 50 years, women nominees' representation barely changed.
 </script>  
   [Data Source:Gender Inequality in the Music Industry (2022) – Statistics and Thoughts](https://www.musicianwave.com/gender-inequality-in-the-music-industry-statistics/)       
   Gender discrimination is not limited to Grammy, but also the whole music industry.    
-       
-       
+<br/>       
+<br/>       
+<br/>
        
 ## **Part 4: Dig into the reasons of women's low representation**   
 💡Story 1:
@@ -90,8 +96,9 @@ After 50 years, women nominees' representation barely changed.
 </script>          
   [Data Source:Report on Sexual Harassment in Music Industry;](https://musiciansunion.org.uk/legal-money/workplace-rights-and-legislation/the-equality-act-and-guidance/sexual-harassment-at-work/report-on-sexual-harassment-in-music-industry)   
   Sexual harassment is highly prevalent in the music industry and **severely underreported**. Women who want to pursue a career in this industry dare not enter it because the prevalent issues here and some talented women artists just left this industry because of the harassment issues.    
-       
-       
+<br/>       
+<br/>       
+<br/>     
        
 💡Story 2:
 **Ageism: Music industry has much stronger preference on young women then young men**
@@ -100,9 +107,10 @@ After 50 years, women nominees' representation barely changed.
 </p>               
 [Data Source:Here’s the Last 30 Album of the Year Grammy Winners By Age](https://www.billboard.com/music/music-news/grammy-age-album-year-winners-graphic-6465426/)    
 The music industry tend to have higher requirement on female artists age. Music companies prefer artists who are young. This can also be proved by the average age comparison here: the average age of male winners of Album of the Year in Grammy from 1985 to 2014 is 48 while that of women winners is 28.  
-      
-      
-      
+<br/>      
+<br/>      
+<br/>
+       
 💡Story 3:
 **Male-dominated jury: The Grammy Jury Association: Recording Academy is dominated by male members**
 <div class='tableauPlaceholder' id='viz1664682938171' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;GenderDistributionOfMembersInRecordingAcademy2019&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GenderDistributionOfMembersInRecordingAcademy2019&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;GenderDistributionOfMembersInRecordingAcademy2019&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
@@ -115,8 +123,9 @@ The music industry tend to have higher requirement on female artists age. Music 
 </script>        
 [Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)        
   Among the Recording Academy members who are the jury of Grammy Music Awards, in 2019, only 31% of members are female.  
-       
-       
+<br/>       
+<br/>      
+<br/>       
        
 ## **Part 5: Learn about the importance of Grammies**      
  💡story 1:      
@@ -137,9 +146,10 @@ What happens to females artists is that they are overwhelmed in a **vicious circ
 4.No opportunities to reveal his song at the Grammys.      
 5.Grammys are always gained by famous artists: success attracts success, while failure induces failure.  
 More women songs deserve hearing and noticing through Grammys.  
-     
-     
-     
+<br/>     
+<br/>     
+<br/>
+       
 ## **Part 6: Let's do something to help women artists!**   
  💡Call to action   
 **1.	Get involved with organizations that support women in audio:**  
@@ -157,24 +167,27 @@ Some splendid women focused music podcats like [Women in Sound](https://www.wome
 Most women artists have social media account where they share their daily music stories. Interact with artists you like can gain them and their songs more exposure in public. 
   
 **🎙 Follow, interact, comment, retweet, share.** Speak up when gender discrimination discussion happen online. Your simple click and voice can make a huge difference.  
-  
-     
-        
+<br/>  
+<br/>     
+<br/>
+       
 # **Moodboard🎨**
 <p align = "center">     
 <img src="Moodboards with color pattern.png" width="1000"/> 
 </p>  
 [Picture Source: Women Music Pictures From iStock](https://www.istockphoto.com/search/2/image?phrase=women%20music&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography&utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-music&utm_term=women%20music%3A%3A%3A)       
 As shown in the color palette, the color which relates the most to women is color like pink, purple. This is also chosen as the design color for most data visualizations above.  
-      
-     
-      
+<br/>      
+<br/>     
+<br/>
+       
 # **User Research and interviews👂🏻**         
 **Target Audience**       
 The main target audience are **music fans or lovers** who listen to different kinds of music.      
 As the call to action of this whole project is to ask for people to participate and move to help female artists and build a music industry where both male and female have aqual opportunities, music fans or lovers or at least people who follow music and artists will be more likely to relate to the content.      
-       
-       
+<br/>       
+<br/>       
+<br/>
        
 **Approach to identify representative individuals**       
 Since I myselft am a big music fan, I also have some friends who are music fans.    
@@ -191,7 +204,8 @@ Two of the interviewees are girls and feminists: one is a PHD student in finance
 | **Q4:  Do you think the color parttern design suit the topic well?**| **The color selection** is relatively easy to understand for the public, **fits the female theme**, the overall tone is consistent, and has a good visual education for users; **the background color of large pink is dirty**, and there are too many pink elements, which are not intuitive, and **the chart background needs to be left blank to appear clearer**  | **The background color looks dirty**, maybe with a peach-colored background and white words, the overall visual effect will be much cleaner; when designing web pages, you can embed pictures in the background and **make the charts in acrylic translucent form** | The choice of color tone is in line with the topic of women's feminism; the chart annotation font can be larger and more reader-friendly | 
 | **Q5:  How engaged do you feel about the whole story? Will you respond to the call to action?**| The story as a whole is very provocative. The choice of angles and numbers stimulates empathy and sympathy, but the language of **call to action itself is not refined enough**, and the sentences are too long to lose the meaning of slogan.  | The story is not provocative enough, **the call to action part can be highlighted in the floating box or tab, users can take action without browsing the entire content**; the website can play the background music of female singers, and the website finally displays the source of background music  | The content of the story is clearly visible to the status quo of women in the music industry, but **the explanation of the reasons is still at a relatively shallow level and has limited persuasive power**, which will affect the motivation of the final call to action.  | 
 | **Q6:  Is there anything you would change or do differently?**| **Change color background board to white** and leave space; I will add some pictures to increase the atmosphere of each big part to enrich the whole story; **add a Hall of Fame picture of a female musician** who has made outstanding contributions to express that despite the industry situation is not friendly to women , there are still many female musicians who are drawn out, so as to improve the user's browsing mood, so as to better call to action| Figure 1-2, need to add a color block legend and logo name; **Figure 2-2**: The title can be more informative, the chart can just show the change in the proportion of women, so as to focus more on the core point, and **the progress can be presented with a donut chart** ; Figure 3-2 Add emoji to highlight different categories; Figure 4-1: Need to explain the research background (800 female music practitioners), the title of Report or Not should be more specific: Report or Not of witness & experience, gradients can be used for different categories Color representation; Figure 4-2: Use word cloud to form age to make the content richer; Figure 5: Smaller spacing between arrows | I will interview a female musician who has relevant experience, or **find an interview with a female musician** about the status and status of female music practitioners. It will be more convincing to use her personal story as the entire storyline. |     
-       
+<br/>       
+<br/>
        
 **Main Findings & Possible changes**
 For story logic and contents:       
@@ -207,9 +221,8 @@ For charts:
 8. Chart 2-1: the growth rate itself is not intuitive. Directly showing the representation ratio will be better.           
 9. Chart 2-2: can try donut chart to better show the idea of the chart.       
 10. Chart 4-1: gradient colors can be used to differentiate between different categories.      
-11. Chart 4-2: word cloud of winners' names can be used to form the age shape and make the chart richer
-12. Chart 5  : the space between each arrow is too big.
-       
+11. Chart 4-2: word cloud of winners' names can be used to form the age shape and make the chart richer.      
+12. Chart 5  : the space between each arrow is too big.       
        
 **Changes Made & Planned**     
 <p align = "center">     
@@ -220,7 +233,10 @@ For change 2 and 7: : since the main audience of this project is music lovers, m
 For change 10,11,12: even though they are of high value to users, it takes time to fix it. Thus, these changes will be included in the next week's work and finally on shorthand display.       
          
 For change 4: it's not easy to get direct data related to the reasons of women musicians' low representation. Also, since the other two interviewees can get the chart stories of reasons part relatively intuitively, this change will not be implemented in short term.       
-      
+<br/>       
+<br/>
+<br/>
+             
 # **Use of Data📊**
 Data Sources List:
 1. [Picture Source: wikipedia](https://en.wikipedia.org/wiki/Ella_Fitzgerald#/media/File:Ella_Fitzgerald_1962.JPG)   
