@@ -164,23 +164,24 @@ Most women artists have social media account where they share their daily music 
 <p align = "center">     
 <img src="Moodboards with color pattern.png" width="1000"/> 
 </p>  
-[Picture Source: Women Music Pictures From iStock](https://www.istockphoto.com/search/2/image?phrase=women%20music&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography&utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-music&utm_term=women%20music%3A%3A%3A)
+[Picture Source: Women Music Pictures From iStock](https://www.istockphoto.com/search/2/image?phrase=women%20music&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography&utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-music&utm_term=women%20music%3A%3A%3A)       
 As shown in the color palette, the color which relates the most to women is color like pink, purple. This is also chosen as the design color for most data visualizations above.  
       
      
       
 # **User Research and interviews👂🏻**         
 **Target Audience**       
-The main target audience are **music fans or lovers** who listen to different kinds of music.   
-As the call to action of this whole project is to ask for people to participate and move to help female artists and build a music industry where both male and female have aqual opportunities, music fans or lovers or at least people who follow music and artists will be more likely to relate to the content.  
+The main target audience are **music fans or lovers** who listen to different kinds of music.      
+As the call to action of this whole project is to ask for people to participate and move to help female artists and build a music industry where both male and female have aqual opportunities, music fans or lovers or at least people who follow music and artists will be more likely to relate to the content.      
        
        
        
-**Approach to identify representative individuals**
+**Approach to identify representative individuals**       
 Since I myselft am a big music fan, I also have some friends who are music fans.    
 To diversify the interviewees, The individuals chosen have different appetite for music. Some love jazz, some love pop music, some prefer rock and some prefer light music.   
-Besides, interviewees chosen have an age range including Millennials and Generation Z.
-Two of the interviewees are girls and feminists: one is a PHD student in finance research, the other is a video game UI designer. The other interviewee is a women who is a product manager and is not feminist. Choosing both ones who are feminists and who are not may help see the whole story in different ways.
+        
+Besides, interviewees chosen have an age range including Millennials and Generation Z.        
+Two of the interviewees are girls and feminists: one is a PHD student in finance research, the other is a video game UI designer. The other interviewee is a women who is a product manager and is not feminist. Choosing both ones who are feminists and who are not may help see the whole story in different ways.         
   
 | Questions  | Product Manager S| UI designer J| PHD student in finance C|
 | ------------- | ------------- | ------------- | ------------- |
