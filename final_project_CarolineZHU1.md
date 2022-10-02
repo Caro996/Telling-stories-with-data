@@ -9,9 +9,9 @@ For the past decades of years, women singers have less chance and representation
 </p>     
 [Picture Source: wikipedia](https://en.wikipedia.org/wiki/Ella_Fitzgerald#/media/File:Ella_Fitzgerald_1962.JPG).   
 Dubbed “The First Lady of Song,” **Ella Fitzgerald** was the most popular female jazz singer in the United States for more than half a century. In 1959, she became the first women who won Grammy in history. In her lifetime, she won 13 Grammy awards and sold over 40 million albums.  
-  
-    
-    
+<br/>  
+<br/>    
+<br/>    
 💡Story 2:   
 **Gender Distribution Of Nominees In The 1st Grammy In 1959**   
 <p align = "center">     
@@ -20,9 +20,9 @@ Dubbed “The First Lady of Song,” **Ella Fitzgerald** was the most popular fe
 [Data Source: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)   
 During the 1st Grammy, there were in total 109 nominees for 26 awards, out of which only 17 are womens.  
 This means: for every **6 male nominees**, there is only **1 female nominee**.     
-  
-    
-    
+<br/>  
+<br/>    
+<br/>    
 ## **Part 2: Look Into Grammy Nowadays**          
 💡Story 1:     
 **Growth Rate of Women Nominees’ Representation (2013 - 2021)**     
@@ -118,7 +118,7 @@ The music industry tend to have higher requirement on female artists age. Music 
        
        
        
- ## **Part 5: Learn about the importance of Grammies**      
+## **Part 5: Learn about the importance of Grammies**      
  💡story 1:      
  **Why Grammies are so important to artists?**
  <div class='tableauPlaceholder' id='viz1664685017076' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sa&#47;SalesUpOfSongsAlbumsAfterGrammyin2020&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SalesUpOfSongsAlbumsAfterGrammyin2020&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sa&#47;SalesUpOfSongsAlbumsAfterGrammyin2020&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
