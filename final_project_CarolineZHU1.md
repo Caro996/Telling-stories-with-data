@@ -39,7 +39,7 @@ In recent years, the women nominees representation fluctuate a lot with an incre
 💡Story 2:  
 **Women Representation Percent Comparison 1959 vs Recent 9 years in Grammy**   
 <p align = "left">
-<img src="Women Nominees Representation After 50 years.png" width="1000"/> 
+<img src="Women Nominees Representation After 50 years.png" width="800"/> 
 </p>     
 [Data Source1: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)  
 [Data Source2: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)   
@@ -50,7 +50,7 @@ After 50 years, women nominees' representation barely changed.
 💡Story 1:  
 **CMA(Country Music Association Award) Winners By Gender (2000 - 2019)**     
 <p align = "left">
-<img src="CMA.png" width="1000"/> 
+<img src="CMA.png" width="800"/> 
 </p>           
   [Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)   
   Out of 20 CMA winners from 2000 to 2019, only 5 winners are women.   
@@ -86,7 +86,7 @@ After 50 years, women nominees' representation barely changed.
 💡Story 2:
 **Ageism: Music industry has much stronger preference on young women then young men**
 <p align = "left">
-<img src="Agisem.png" width="1000"/> 
+<img src="Agisem.png" width="800"/> 
 </p>               
 [Data Source:Here’s the Last 30 Album of the Year Grammy Winners By Age](https://www.billboard.com/music/music-news/grammy-age-album-year-winners-graphic-6465426/)    
 The music industry tend to have higher requirement on female artists age. Music companies prefer artists who are young. This can also be proved by the average age comparison here: the average age of male winners of Album of the Year in Grammy from 1985 to 2014 is 48 while that of women winners is 28.  
