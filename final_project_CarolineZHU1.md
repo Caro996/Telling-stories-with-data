@@ -48,6 +48,8 @@ Chart after changes:
    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>       
+[Data Source: Share of Grammy nominations in the United States from 2013 to 2021, by gender](https://www.statista.com/statistics/801372/gender-grammy-nominees/)   
+In recent years, the women nominees representation fluctuates with an increasing trend.
 <br/>     
 <br/> 
       
