@@ -96,9 +96,10 @@ Chart after changes:
    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='227px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='227px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                    var scriptElement = document.createElement('script');                    
    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>       
-[Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)   
-  Out of 20 CMA winners from 2000 to 2019, only 5 winners are women.   1  
+</script>         
+  
+[Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)         
+Out of 20 CMA winners from 2000 to 2019, only 5 winners are women.   2  
 <br/>       
 <br/>       
          
