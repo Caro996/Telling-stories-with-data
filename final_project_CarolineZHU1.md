@@ -261,8 +261,7 @@ As shown in the color palette, the color which relates the most to women is colo
 **Target Audience**       
 The main target audience are **music fans or lovers** who listen to different kinds of music.      
 As the call to action of this whole project is to ask for people to participate and move to help female artists and build a music industry where both male and female have aqual opportunities, music fans or lovers or at least people who follow music and artists will be more likely to relate to the content.      
-<br/>       
-<br/>       
+<br/>        
        
 **Approach to identify representative individuals**       
 Since I myselft am a big music fan, I also have some friends who are music fans.    
@@ -288,7 +287,7 @@ For story logic and contents:
 2. An introduction is needed for engaging audience who are not familiar with Grammy Awards, especially Grammy's logo and importance in music industry.   
 3. The call to action part should be again refined into short slogans to be more provocative.     
 4. Current reasoning part is not persuasive enough since the data shown here may not directly prove the reasons stated.     
-
+<br/>
 For charts:        
 5. The background color seems dirty and makes the chart not intuitive enough.         
 6. Most titles of charts are simply descriptive and not intuitive enough. Can add subtite to strengthen the story telling point.       
