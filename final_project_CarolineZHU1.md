@@ -98,7 +98,7 @@ Chart after changes:
    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>       
 [Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)   
-  Out of 20 CMA winners from 2000 to 2019, only 5 winners are women.     
+  Out of 20 CMA winners from 2000 to 2019, only 5 winners are women.   1  
 <br/>       
 <br/>       
          
