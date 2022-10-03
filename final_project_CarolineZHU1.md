@@ -100,12 +100,12 @@ Chart after changes:
 </script>        
   
 [Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)         
-Out of 20 CMA winners from 2000 to 2019, only 5 winners are women.   3  
+Out of 20 CMA winners from 2000 to 2019, only 5 winners are women.   
 <br/>       
 <br/>       
          
 💡Story 2:
-  **Women Representation Of 900 Popular Songs(2012-2020) in the US Music Industry**   
+  **Women Representation Of 900 Popular Songs(2012-2020) in the US Music Industry**         
 Original chart:
 <p align = "center">
 <img src="4.png" width="600"/> 
@@ -129,7 +129,7 @@ Gender discrimination is not limited to Grammy, but also the whole music industr
        
 ## **Part 4: Dig into the reasons of women's low representation**   
 💡Story 1:
-**Sexual Harassment in Music Industry Scared Talents Away(2019)**   
+**Sexual Harassment in Music Industry Scared Talents Away(2019)**          
 Original chart:
 <p align = "center">
 <img src="5.png" width="600"/> 
@@ -153,7 +153,7 @@ Sexual harassment is highly prevalent in the music industry and **severely under
 <br/>           
        
 💡Story 2:
-**Ageism: Music industry has much stronger preference on young women then young men**
+**Ageism: Music industry has much stronger preference on young women then young men**         
 Original Chart:       
 <p align = "left">
 <img src="Agisem.png" width="800"/> 
@@ -175,7 +175,7 @@ The music industry tend to have higher requirement on female artists age. Music 
 <br/>           
           
 💡Story 3:
-**Male-dominated jury: The Grammy Jury Association: Recording Academy is dominated by male members**
+**Male-dominated jury: The Grammy Jury Association: Recording Academy is dominated by male members**         
 Original chart:
 <p align = "center">
 <img src="7.png" width="600"/> 
