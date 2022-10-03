@@ -284,7 +284,7 @@ Two of the interviewees are girls and feminists: one is a PHD student in finance
 <br/>       
 <br/>
        
-**Main Findings & Possible changes**
+**Main Findings & Possible changes**       
 For story logic and contents:       
 1. An overall frame or sturcture is needed. In this draft, it can be a catalog. In the web page, it can be a tab at the very front of each page.     
 2. An introduction is needed for engaging audience who are not familiar with Grammy Awards, especially Grammy's logo and importance in music industry.   
