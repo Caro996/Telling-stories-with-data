@@ -273,7 +273,7 @@ Two of the interviewees are girls and feminists: one is a PHD student in finance
          
 | Questions  | Product Manager S | UI designer J | PHD student in finance C |
 | ------------- | ------------- | ------------- | ------------- |    
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Q1:  Are all the storyboards clear and closely related to the main topic ?  | On the whole, yes, but the overall content is not only a description of the proportion of women, but more description and analysis of the status and status of female musicians in the industry. The purpose is to call attention to female musicians. Therefore, the title itself should be more A call to action, stating a point of view.  | It is closely related to the theme, but because there is too much content, the way of scrolling through the interface cuts off the connection between parts, making a tab directory, and clicking directly to the corresponding part will make the structure clearer; when making a web page, you must have a start cover page  | In terms of content, the connection is strong, but it lacks an overall framework to string together the stories in different parts; for those who don’t know the Grammys, the story is not attractive, and it is better to add a part of the introduction to the Grammy Awards at the top , the logic is more complete  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
