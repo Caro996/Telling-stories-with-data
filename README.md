@@ -44,6 +44,8 @@ Below are my data stories with data visualizations:
 🧪 [Covid 19 Cases in US (2020-2021)](Covid 19 US.md)
 
 📰 [Trusted News Media Rank in US](Trusted News Media Rank in US.md)
+
+⚽️ [FIFA 2020 Players Capability Comparison: US vs Brazil](FIFA Players 2020.md)
     
 ### Assign 2
 💰 [General Government Debts](General government debt.md)  
