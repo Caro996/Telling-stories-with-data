@@ -327,7 +327,16 @@ Data Sources List:
 10. [Idea Source: These Are 3 Of The Biggest Drivers Of Gender Inequality In Music; Andrea Bossi; Mar 26, 2021](https://www.forbes.com/sites/andreabossi/2021/03/26/these-are-3-of-the-biggest-reported-drivers-of-gender-inequality-in-music/) 
 11. [Idea Source: 10 Ways To Support Women Musicians & Creators Year-Round; LILY MOAYERI; MAR 2, 2022](https://www.grammy.com/news/10-ways-to-support-women-in-music-year-round)   
 12. [Picture Source: Women Music Pictures From iStock](https://www.istockphoto.com/search/2/image?phrase=women%20music&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography&utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-music&utm_term=women%20music%3A%3A%3A)
-  
+         
+         
+# **Feedbacks from peers👩🏻‍🎓🧑🏻‍🎓**
+1. A lot of valuable contents shown, but may not be able to cover everything during the 1 minute presentation. Need to prioritize certain data visualizations during presentation.       
+2. Again refine each data visualization's title, make it shorter or make the point of view part stand out. It will be easier for the audience to catch the storytelling point. For example, for the chart where women representation barely changed, the "Barely Changed" word can be made even bigger and in upper case.       
+3. Put the importance of Grammy to the artists at the very front, so that people can get why I'm talking about Grammy specifically. It can act like a hook where people can thenn follow the story about women's low representation and feel emotionally bad about it.
+          
+      
+Changes planned:        
+all the 3 changes will be made when it comes to my shorthand website.       
   
 
 
