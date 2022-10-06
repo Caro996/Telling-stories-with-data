@@ -48,6 +48,8 @@ Below are my data stories with data visualizations:
 ⚽️ [FIFA 2020 Players Capability Comparison: US vs Brazil](FIFA Players 2020.md)
 
 🚴🏻‍♀️ [Tandem Bicycling Medal Rank By Country](Tandem Bicycling Rank By Country.md)
+
+🚢 [Titanic Survival by class and age group](Titanic Survival.svg)
     
 ### Assign 2
 💰 [General Government Debts](General government debt.md)  
