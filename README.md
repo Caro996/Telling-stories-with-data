@@ -46,6 +46,8 @@ Below are my data stories with data visualizations:
 📰 [Trusted News Media Rank in US](Trusted News Media Rank in US.md)
 
 ⚽️ [FIFA 2020 Players Capability Comparison: US vs Brazil](FIFA Players 2020.md)
+
+🚴🏻‍♀️ [Tandem Bicycling Medal Rank By Country](Tandem Bicycling Rank By Country.md)
     
 ### Assign 2
 💰 [General Government Debts](General government debt.md)  
