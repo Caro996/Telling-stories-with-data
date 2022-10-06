@@ -51,7 +51,7 @@ Below are my data stories with data visualizations:
 
 🚢 [Titanic Survival by class and age group](Titanic Survival.svg)
 
-🚚 [Donars & Recipients Of Food in Pittsburgh1](Donars&RecipientsFoodPitts.html)
+🚚 [Donars & Recipients Of Food in Pittsburgh1](Donars&RecipientsFoodPitts.html)       
 🚚 [Donars & Recipients Of Food in Pittsburgh2](D&RPittsFood.html)
     
 ### Assign 2
