@@ -41,7 +41,7 @@ Below are my data stories with data visualizations:
 
 ### Course Exploration
 🦠 [King Country Covid 19 Cases](King County Covid-19 Cases.md)  
-🧪 [Covid 19 Cases in US (2020-2021)](Covid 19 US.md)
+🦠 [Covid 19 Cases in US (2020-2021)](Covid 19 US.md)
 
 📰 [Trusted News Media Rank in US](Trusted News Media Rank in US.md)
 
@@ -52,6 +52,7 @@ Below are my data stories with data visualizations:
 🚢 [Titanic Survival by class and age group](Titanic Survival.svg)
 
 🚚 [Donars & Recipients Of Food in Pittsburgh1](Donars&RecipientsFoodPitts.html)
+🚚 [Donars & Recipients Of Food in Pittsburgh2](D&RPittsFood.html)
     
 ### Assign 2
 💰 [General Government Debts](General government debt.md)  
