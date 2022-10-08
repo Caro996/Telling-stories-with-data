@@ -211,7 +211,14 @@ No.4:
 "severly underreported" is highlighted.   
    
 No.6:
-The 31% data label was put outside of the pie chart.   
+The 31% data label was put outside of the pie chart.       
+    
+     
+### Other parts of the project       
+[Part 2](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU1.html)
+
+
+
   
 
 
