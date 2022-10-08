@@ -337,6 +337,9 @@ Data Sources List:
       
 Changes planned:        
 all the 3 changes will be made when it comes to my shorthand website.       
+
+### Other parts of the project
+[Part 1](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU.html)
   
 
 
