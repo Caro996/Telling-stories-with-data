@@ -62,5 +62,5 @@ Below are my data stories with data visualizations:
    
 ### Final Project
 [Part 1](final_project_CarolineZHU.md)    
-[Part 2](final_project_CarolineZHU1.md)
+[Part 2](final_project_CarolineZHU1.md)       
 [Part 3](final_project_CarolineZHU2.md)
