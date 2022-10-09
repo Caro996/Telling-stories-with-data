@@ -1,7 +1,8 @@
 # Catalog of final project      
 Part I  : [Brief Intro & Pitch to the topic: Female Representation In Grammies](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU.html)       
 Part II : [Storyline Draft & User Research](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU1.html)        
-Part III: [Final Wrap Up](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU2.html) 
+Part III: [Final Wrap Up](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU2.html)        
+Final website: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html#group-section-Intro-5woDc3RJmd)
 # ***Outline🔖***
 **Summary**  
 This project looks at women singers' representation in Grammy Musical Award over the years.  
