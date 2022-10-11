@@ -9,13 +9,15 @@ Final pre pitch: [Shorthand Display](https://carnegiemellon.shorthandstories.com
 **Part I**       
 In part I, I designed the story arc/emotions of arc. Put together the thoughts I have for this topic with some sketches corresponding to each scenario.   
 Three simple call to actions are drafted and main medium to be used for final display is also identified.       
-Several peer feedbacks during t he class help to give me more clues on how to present my stories more clearly.      
+Several peer feedbacks during t he class help to give me more clues on how to present my stories more clearly.       
+       
 **Part II**       
 In part II, I further designed the whole story line and contents in detail with all sketches turned into digital charts with help of Tableau.       
 Moodboard is used to identify the main color frame or theme of the website and also the color chosen for most data visualizations.       
 For doing an effective user research, main targeted audience is identified. When picking up sample respondents to do the research, diversity of groups is emphasized to get various feedbacks towards the data visualization stories.         
 Questions asked cover not just the data visualization design, but also the logic of whole story line and the engagement respondents feel to finally react to the call to action.       
 After getting a bunch of feedbacks, I note down main possible changes and use priority of changes chart to organize and decide which changes to implement and focus. Some highly feasible and valuable changes are made directly.       
+       
 **Part III**       
 In part III, based on all previous feedbacks including ones from professor Christopher Goranson, I finally implement everything into the shorthand website. 
 Changes made include mainly 3 parts:       
