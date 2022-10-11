@@ -77,6 +77,19 @@ Changes made since completion of part II:
 <p align = "center">
 <img src="11resourcesformusicians.png" width="1000"/> 
 </p>       
+       
+       
+**For identifying the audience**:   
+Since the main purpose in the end is to help promote female artists, the audience that are highly likely to respond to call to action are music fans.       
+But at the same time, to really change the industry gender discrimination situation, only fans support will not be enough. Thus, another audience of this project will be female musicians. Some female musician support resources are offered in the end to let them know they are not alone and there are organizations and communities there to help.        
+       
+As I reflect on the process I went through to reach this point, I believe the user research and peer feedback helped most. Sometimes, after doing a lot of researches, we may be over confident about our story including the story telling points and the internal story logic that links the whole stories together. Showing the work to all different students, friends and professor with various backgrounds can help a lot to make the final display clearer and more friendly. For example, as a music fan for many years, I did not notice someone might know nothing about Grammies and an introduction to Grammy is actually needed at the very beginning of the story.       
+       
+       
+**Final Presentation Pitch: **
+       
+       
+
 
 
 
