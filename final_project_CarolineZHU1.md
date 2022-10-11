@@ -296,7 +296,7 @@ For story logic and contents:
 2. An introduction is needed for engaging audience who are not familiar with Grammy Awards, especially Grammy's logo and importance in music industry.   
 3. The call to action part should be again refined into short slogans to be more provocative.     
 4. Current reasoning part is not persuasive enough since the data shown here may not directly prove the reasons stated.     
-<br/>
+       
 For charts:        
 5. The background color seems dirty and makes the chart not intuitive enough.         
 6. Most titles of charts are simply descriptive and not intuitive enough. Can add subtite to strengthen the story telling point.       
@@ -307,12 +307,15 @@ For charts:
 11. Chart 4-2: word cloud of winners' names can be used to form the age shape and make the chart richer.      
 12. Chart 5  : the space between each arrow is too big.       
        
+       
 **Changes Made & Planned**     
 <p align = "center">     
 <img src="Priority of Changes.jpg" width="600"/> 
 </p>     
-As shown in the priority of changes chart, the change inthe first quadrant with high value and high feasibility was performed in this job already.     
+As shown in the priority of changes chart, the change inthe first quadrant with high value and high feasibility was performed in this job already.   
+       
 For change 2 and 7: : since the main audience of this project is music lovers, most of them know the importance of Grammy and the logo of Grammy. Thus, no introduction of Grammy at the very front should be fine.        
+       
 For change 10,11,12: even though they are of high value to users, it takes time to fix it. Thus, these changes will be included in the next week's work and finally on shorthand display.       
          
 For change 4: it's not easy to get direct data related to the reasons of women musicians' low representation. Also, since the other two interviewees can get the chart stories of reasons part relatively intuitively, this change will not be implemented in short term.       
