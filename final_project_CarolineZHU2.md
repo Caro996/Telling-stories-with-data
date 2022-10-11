@@ -2,7 +2,8 @@
 Part I  : [Brief Intro & Pitch to the topic: Female Representation In Grammies](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU.html)       
 Part II : [Storyline Draft & User Research](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU1.html)        
 Part III: [Final Wrap Up](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU2.html)   
-Final website: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html#group-section-Intro-5woDc3RJmd)
+Final website: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html)
+Final pre pitch: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-Predemo-Caroline-ZHU/index.html)
 
 # Brief Summary So Far✍🏻       
 **Part I**       
@@ -86,8 +87,35 @@ But at the same time, to really change the industry gender discrimination situat
 As I reflect on the process I went through to reach this point, I believe the user research and peer feedback helped most. Sometimes, after doing a lot of researches, we may be over confident about our story including the story telling points and the internal story logic that links the whole stories together. Showing the work to all different students, friends and professor with various backgrounds can help a lot to make the final display clearer and more friendly. For example, as a music fan for many years, I did not notice someone might know nothing about Grammies and an introduction to Grammy is actually needed at the very beginning of the story.       
        
        
-**Final Presentation Pitch: **
+**Final Presentation Pitch**:  
+[Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-Predemo-Caroline-ZHU/index.html)
+**Final website**: 
+[Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html)
        
+       
+# **Use of Data📊**
+Data Sources List:
+1. [Picture Source: wikipedia](https://en.wikipedia.org/wiki/Ella_Fitzgerald#/media/File:Ella_Fitzgerald_1962.JPG)   
+2. [Data Source: Grammy Awards 1959(May)](awardsandshows.com/features/grammy-awards-1959-may-238.html)    
+3. [Data Source: Share of Grammy nominations in the United States from 2013 to 2021, by gender, Statista](https://www.statista.com/statistics/801372/gender-grammy-nominees/)       
+4. [Data Source: Gender Representation of CMA Awards: A Study of Nominees and Winners, 2000-2019; JADA E. WATSON](https://songdata.ca/wp-content/uploads/2019/11/SongData_Watson-CMA-NominationHistoryNovember2019.pdf)    
+5. [Data Source:Gender Inequality in the Music Industry (2022) – Statistics and Thoughts;Milan Trajkovikj;February 11, 2022](https://www.musicianwave.com/gender-inequality-in-the-music-industry-statistics/)   
+6. [Data Source:Report on Sexual Harassment in Music Industry;Musicians' union; 25 March 2022](https://musiciansunion.org.uk/legal-money/workplace-rights-and-legislation/the-equality-act-and-guidance/sexual-harassment-at-work/report-on-sexual-harassment-in-music-industry)      
+7. [Data Source:Here’s the Last 30 Album of the Year Grammy Winners By Age; Joe Lynch; 06 Feb. 2015](https://www.billboard.com/music/music-news/grammy-age-album-year-winners-graphic-6465426/)   
+8. [Data Source:Recording Academy Welcomes “Nearly 2000 Diverse”New Members; Paul Grein; 9 September 2022](https://www.billboard.com/music/music-news/recording-academy-welcomes-nearly-2000-new-members-1235136676/)    
+9. [Data Source: Growth of music sales on the day after the Grammy Awards in 2020, by type; Statista](https://www.statista.com/statistics/252744/growth-of-music-sales-following-the-grammay-awards/)    
+10. [Idea Source: These Are 3 Of The Biggest Drivers Of Gender Inequality In Music; Andrea Bossi; Mar 26, 2021](https://www.forbes.com/sites/andreabossi/2021/03/26/these-are-3-of-the-biggest-reported-drivers-of-gender-inequality-in-music/) 
+11. [Idea Source: 10 Ways To Support Women Musicians & Creators Year-Round; LILY MOAYERI; MAR 2, 2022](https://www.grammy.com/news/10-ways-to-support-women-in-music-year-round)   
+12. [Picture Source: Women Music Pictures From iStock](https://www.istockphoto.com/search/2/image?phrase=women%20music&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography&utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-music&utm_term=women%20music%3A%3A%3A)
+13. [Resource for female Musicians: Here For the Music](https://www.callingallcrows.org/hftm)
+14. [Resource for female Musicians: End Sexual Harassment At Work](https://musiciansunion.org.uk/campaigns/end-sexual-harassment-at-work)
+15. [Resource for femal Musicians:Soundsgirls_Report Sexual Harassment](https://soundgirls.org/reporting-sexual-harassment/)
+16. [Picture resource:headphones_pink on Pixabay](https://pixabay.com/photos/headphones-pink-pastel-colors-3435885/)
+17. [Picture resource:headphones_pink and green on Pixabay](https://pixabay.com/photos/headphones-blue-pink-pastel-colors-3435888/)
+18. [Picture resource:headphones_green on Pixabay](https://pixabay.com/photos/headphones-blue-pink-pastel-colors-3435880/)
+19. [Resource for female Musicians: 17 marketing campaigns](https://econsultancy.com/17-marketing-campaigns-with-a-positive-message-for-women/)
+20. [Resource for female Musicians: Spotify launch Sawtik](https://campaignme.com/spotify-launches-sawtik-to-celebrate-emerging-arab-female-artists-across-the-mena-region/)
+21. [Resource for female Musicians: Spotify launch EQUAL](https://newsroom.spotify.com/2021-03-08/celebrating-international-womens-day-with-our-new-campaign-equal/)
        
 
 
