@@ -112,7 +112,7 @@ As I reflect on the process I went through to reach this point, I believe the us
        
 **Final Presentation Pitch**:  
 [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-Predemo-Caroline-ZHU/index.html)       
-**Final website**: 
+**Final website**:        
 [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html)
        
        
