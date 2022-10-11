@@ -2,8 +2,8 @@
 Part I  : [Brief Intro & Pitch to the topic: Female Representation In Grammies](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU.html)       
 Part II : [Storyline Draft & User Research](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU1.html)        
 Part III: [Final Wrap Up](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU2.html)   
-Final website: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html)
-Final pre pitch: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-Predemo-Caroline-ZHU/index.html)
+Final website: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html)       
+Final pre pitch: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-Predemo-Caroline-ZHU/index.html)       
 
 # Brief Summary So Far✍🏻       
 **Part I**       
@@ -109,7 +109,7 @@ As I reflect on the process I went through to reach this point, I believe the us
        
        
 **Final Presentation Pitch**:  
-[Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-Predemo-Caroline-ZHU/index.html)
+[Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-Predemo-Caroline-ZHU/index.html)       
 **Final website**: 
 [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html)
        
