@@ -1,8 +1,9 @@
 # Catalog of final project      
 Part I  : [Brief Intro & Pitch to the topic: Female Representation In Grammies](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU.html)       
 Part II : [Storyline Draft & User Research](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU1.html)        
-Part III: [Final Wrap Up](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU2.html)        
-Final website: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html#group-section-Intro-5woDc3RJmd)
+Part III: [Final Wrap Up](https://caro996.github.io/Telling-stories-with-data/final_project_CarolineZHU2.html)   
+Final website: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-by-Caroline-ZHU/index.html)
+Final pre pitch: [Shorthand Display](https://carnegiemellon.shorthandstories.com/female-musicians-Predemo-Caroline-ZHU/index.html)
 # ***Wireframes and storyboards✍🏻***
 Topic: women singers' representation in Grammy Musical Award and the whole music industry in US over the years.  
 For the past decades of years, women singers have less chance and representation in Grammy.Fortunately, the situation is getting better recently with a noticeable growth in 2019. However, the gender discrimination still exists in the whole music industry. We need everyone's help to improve the situation.  
